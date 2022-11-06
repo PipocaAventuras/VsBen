@@ -1,0 +1,39 @@
+{
+	"song": {
+		"speed": 2.8,
+		"stage": "woody-afternoon",
+		"player1": "bf",
+		"player2": "yellow-jacket-ben",
+		"player3": null,
+		"events": [
+			[
+				86399.9999999999,
+				[
+					[
+						"camerazoom",
+						"8",
+						"50"
+					]
+				]
+			],
+			[
+				87771.4285714285,
+				[
+					[
+						"camerazoom",
+						"0",
+						"0"
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": null,
+		"validScore": false,
+		"gfVersion": "gf",
+		"bpm": 175,
+		"arrowSkin": null,
+		"needsVoices": true,
+		"song": "Roots"
+	}
+}

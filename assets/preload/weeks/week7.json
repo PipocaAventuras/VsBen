@@ -1,0 +1,57 @@
+{
+	"storyName": "ben",
+	"hideFreeplay": false,
+	"weekBackground": "woody-town",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"songs": [
+		[
+			"Upapayuma",
+			"ben",
+			[
+				0,
+				173,
+				255
+			]
+		],
+		[
+			"Woody",
+			"ben",
+			[
+				0,
+				173,
+				255
+			]
+		],
+		[
+			"Roots",
+			"ben",
+			[
+				0,
+				173,
+				255
+			]
+		],
+		[
+			"Rapping Night",
+			"ben",
+			[
+				0,
+				173,
+				255
+			]
+		]
+	],
+	"weekName": "week woody"
+}

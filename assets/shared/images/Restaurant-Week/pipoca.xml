@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="pipoca.png">
+	<!-- Created with Adobe Animate version 20.5.1.31044 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Pipoca Fundo Idle0000" x="0" y="0" width="224" height="319" frameX="-1" frameY="-3" frameWidth="225" frameHeight="322"/>
+	<SubTexture name="Pipoca Fundo Idle0001" x="0" y="0" width="224" height="319" frameX="-1" frameY="-3" frameWidth="225" frameHeight="322"/>
+	<SubTexture name="Pipoca Fundo Idle0002" x="224" y="0" width="225" height="319" frameX="0" frameY="-3" frameWidth="225" frameHeight="322"/>
+	<SubTexture name="Pipoca Fundo Idle0003" x="224" y="0" width="225" height="319" frameX="0" frameY="-3" frameWidth="225" frameHeight="322"/>
+	<SubTexture name="Pipoca Fundo Idle0004" x="449" y="0" width="223" height="321" frameX="0" frameY="-1" frameWidth="225" frameHeight="322"/>
+	<SubTexture name="Pipoca Fundo Idle0005" x="449" y="0" width="223" height="321" frameX="0" frameY="-1" frameWidth="225" frameHeight="322"/>
+	<SubTexture name="Pipoca Fundo Idle0006" x="672" y="0" width="223" height="322" frameX="0" frameY="0" frameWidth="225" frameHeight="322"/>
+	<SubTexture name="Pipoca Fundo Idle0007" x="672" y="0" width="223" height="322" frameX="0" frameY="0" frameWidth="225" frameHeight="322"/>
+	<SubTexture name="Pipoca Fundo Idle0008" x="672" y="0" width="223" height="322" frameX="0" frameY="0" frameWidth="225" frameHeight="322"/>
+	<SubTexture name="Pipoca Fundo Idle0009" x="672" y="0" width="223" height="322" frameX="0" frameY="0" frameWidth="225" frameHeight="322"/>
+	<SubTexture name="Pipoca Fundo Idle0010" x="672" y="0" width="223" height="322" frameX="0" frameY="0" frameWidth="225" frameHeight="322"/>
+	<SubTexture name="Pipoca Fundo Idle0011" x="672" y="0" width="223" height="322" frameX="0" frameY="0" frameWidth="225" frameHeight="322"/>
+	<SubTexture name="Pipoca Fundo Idle0012" x="672" y="0" width="223" height="322" frameX="0" frameY="0" frameWidth="225" frameHeight="322"/>
+	<SubTexture name="Pipoca Fundo Idle0013" x="672" y="0" width="223" height="322" frameX="0" frameY="0" frameWidth="225" frameHeight="322"/>
+</TextureAtlas>

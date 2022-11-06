@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="the linha.png">
+	<!-- Created with Adobe Animate version 20.5.1.31044 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="negocio do fundo0000" x="0" y="0" width="485" height="1303" frameX="0" frameY="-3" frameWidth="485" frameHeight="1306"/>
+	<SubTexture name="negocio do fundo0001" x="0" y="0" width="485" height="1303" frameX="0" frameY="-3" frameWidth="485" frameHeight="1306"/>
+	<SubTexture name="negocio do fundo0002" x="0" y="0" width="485" height="1303" frameX="0" frameY="-3" frameWidth="485" frameHeight="1306"/>
+	<SubTexture name="negocio do fundo0003" x="485" y="0" width="387" height="1194" frameX="-50" frameY="0" frameWidth="485" frameHeight="1306"/>
+	<SubTexture name="negocio do fundo0004" x="485" y="0" width="387" height="1194" frameX="-50" frameY="0" frameWidth="485" frameHeight="1306"/>
+	<SubTexture name="negocio do fundo0005" x="485" y="0" width="387" height="1194" frameX="-50" frameY="0" frameWidth="485" frameHeight="1306"/>
+</TextureAtlas>

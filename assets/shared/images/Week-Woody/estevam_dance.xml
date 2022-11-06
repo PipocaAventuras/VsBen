@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="estevam_dance.png">
+	<!-- Created with Adobe Animate version 20.5.1.31044 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="estevam66 dance0000" x="0" y="0" width="311" height="364" frameX="0" frameY="-9" frameWidth="315" frameHeight="373"/>
+	<SubTexture name="estevam66 dance0001" x="0" y="0" width="311" height="364" frameX="0" frameY="-9" frameWidth="315" frameHeight="373"/>
+	<SubTexture name="estevam66 dance0002" x="311" y="0" width="310" height="370" frameX="-5" frameY="-2" frameWidth="315" frameHeight="373"/>
+	<SubTexture name="estevam66 dance0003" x="311" y="0" width="310" height="370" frameX="-5" frameY="-2" frameWidth="315" frameHeight="373"/>
+	<SubTexture name="estevam66 dance0004" x="621" y="0" width="306" height="372" frameX="-9" frameY="0" frameWidth="315" frameHeight="373"/>
+	<SubTexture name="estevam66 dance0005" x="621" y="0" width="306" height="372" frameX="-9" frameY="0" frameWidth="315" frameHeight="373"/>
+	<SubTexture name="estevam66 dance0006" x="621" y="0" width="306" height="372" frameX="-9" frameY="0" frameWidth="315" frameHeight="373"/>
+	<SubTexture name="estevam66 dance0007" x="621" y="0" width="306" height="372" frameX="-9" frameY="0" frameWidth="315" frameHeight="373"/>
+	<SubTexture name="estevam66 dance0008" x="621" y="0" width="306" height="372" frameX="-9" frameY="0" frameWidth="315" frameHeight="373"/>
+	<SubTexture name="estevam66 dance0009" x="621" y="0" width="306" height="372" frameX="-9" frameY="0" frameWidth="315" frameHeight="373"/>
+	<SubTexture name="estevam66 dance0010" x="621" y="0" width="306" height="372" frameX="-9" frameY="0" frameWidth="315" frameHeight="373"/>
+	<SubTexture name="estevam66 dance0011" x="621" y="0" width="306" height="372" frameX="-9" frameY="0" frameWidth="315" frameHeight="373"/>
+	<SubTexture name="estevam66 dance0012" x="621" y="0" width="306" height="372" frameX="-9" frameY="0" frameWidth="315" frameHeight="373"/>
+	<SubTexture name="estevam66 dance0013" x="621" y="0" width="306" height="372" frameX="-9" frameY="0" frameWidth="315" frameHeight="373"/>
+</TextureAtlas>

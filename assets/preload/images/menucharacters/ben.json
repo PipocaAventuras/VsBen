@@ -1,0 +1,10 @@
+{
+	"idle_anim": "ben idle black",
+	"image": "menu_ben",
+	"position": [
+		52,
+		19
+	],
+	"scale": 0.55,
+	"confirm_anim": "ben idle black"
+}

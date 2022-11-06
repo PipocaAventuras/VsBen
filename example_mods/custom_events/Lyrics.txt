@@ -1,0 +1,3 @@
+value1 = text or lyrics
+value2 = duration before its gone (in 
+seconds) you can use decimals like 0.3

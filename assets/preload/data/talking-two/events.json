@@ -1,0 +1,239 @@
+{
+	"song": {
+		"speed": 3,
+		"stage": "house_woody",
+		"player1": "talkingtwoben",
+		"player2": "talkingben",
+		"player3": null,
+		"events": [
+			[
+				5684.21052631579,
+				[
+					[
+						"Play Animation",
+						"Yes",
+						"dad"
+					]
+				]
+			],
+			[
+				5710.52631578947,
+				[
+					[
+						"Lyrics",
+						"Ben?",
+						"0.5"
+					]
+				]
+			],
+			[
+				6157.8947368421,
+				[
+					[
+						"Play Animation",
+						"dar",
+						"bf"
+					]
+				]
+			],
+			[
+				6315.78947368421,
+				[
+					[
+						"Lyrics",
+						"E ai Ben, é verdade que você dá a bunda?",
+						"2.5"
+					]
+				]
+			],
+			[
+				11032.8947368421,
+				[
+					[
+						"Lyrics",
+						"Yes",
+						"0.3"
+					]
+				]
+			],
+			[
+				11052.6315789474,
+				[
+					[
+						"Play Animation",
+						"Yes",
+						"dad"
+					]
+				]
+			],
+			[
+				33453.9473684211,
+				[
+					[
+						"Lyrics",
+						"Ben?",
+						"0.5"
+					]
+				]
+			],
+			[
+				33473.6842105263,
+				[
+					[
+						"Play Animation",
+						"Yes",
+						"dad"
+					]
+				]
+			],
+			[
+				53052.6315789473,
+				[
+					[
+						"Play Animation",
+						"Yes",
+						"dad"
+					]
+				]
+			],
+			[
+				53052.6315789473,
+				[
+					[
+						"Lyrics",
+						"Yes?",
+						"1"
+					]
+				]
+			],
+			[
+				55578.947368421,
+				[
+					[
+						"Play Animation",
+						"No",
+						"dad"
+					]
+				]
+			],
+			[
+				55578.947368421,
+				[
+					[
+						"Lyrics",
+						"No",
+						"1"
+					]
+				]
+			],
+			[
+				58105.2631578947,
+				[
+					[
+						"Play Animation",
+						"Ho!",
+						"dad"
+					]
+				]
+			],
+			[
+				58105.2631578947,
+				[
+					[
+						"Lyrics",
+						"Ho! Ho! Ho!",
+						"1"
+					]
+				]
+			],
+			[
+				58342.1052631579,
+				[
+					[
+						"Play Animation",
+						"Ho!",
+						"dad"
+					]
+				]
+			],
+			[
+				58657.8947368421,
+				[
+					[
+						"Play Animation",
+						"Ho!",
+						"dad"
+					]
+				]
+			],
+			[
+				60631.5789473684,
+				[
+					[
+						"Play Animation",
+						"Lol",
+						"dad"
+					]
+				]
+			],
+			[
+				61250,
+				[
+					[
+						"Lyrics",
+						"!!!!!!!!!!!",
+						"0.5"
+					]
+				]
+			],
+			[
+				61263.1578947368,
+				[
+					[
+						"Play Animation",
+						"scared",
+						"bf"
+					]
+				]
+			],
+			[
+				61894.7368421052,
+				[
+					[
+						"Play Animation",
+						"Lol-loop",
+						"dad"
+					]
+				]
+			],
+			[
+				66628.2894736842,
+				[
+					[
+						"Lyrics",
+						"Ben?",
+						"0.3"
+					]
+				]
+			],
+			[
+				66631.5789473684,
+				[
+					[
+						"Play Animation",
+						"Yes",
+						"dad"
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": "noteSplashes",
+		"validScore": false,
+		"gfVersion": "speaker",
+		"bpm": 190,
+		"arrowSkin": "",
+		"needsVoices": true,
+		"song": "Talking Two"
+	}
+}

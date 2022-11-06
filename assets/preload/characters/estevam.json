@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "estevam idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				58,
+				-7
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "estevam left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				16,
+				-2
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "estevam down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				24,
+				24
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "estevam up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-10,
+				-16
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "estevam right",
+			"indices": []
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "micTransition",
+			"loop": false,
+			"name": "Estevam Mic Animation"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "Restaurant-Week/Estevam_Assets",
+	"position": [
+		0,
+		250
+	],
+	"healthicon": "estevam",
+	"flip_x": false,
+	"healthbar_colors": [
+		224,
+		161,
+		101
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 6.1,
+	"scale": 1.1
+}

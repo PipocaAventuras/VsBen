@@ -1,0 +1,105 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "ben idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				179,
+				-6
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "ben right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-90,
+				-23
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "ben down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-43,
+				-11
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "ben up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-43,
+				0
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "ben left",
+			"indices": []
+		},
+		{
+			"offsets": [
+				182,
+				-6
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "singLEFT-loop",
+			"indices": [
+				12,
+				13,
+				14,
+				15
+			],
+			"name": "ben right"
+		},
+		{
+			"offsets": [
+				-109,
+				19
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP-alt",
+			"indices": [],
+			"name": "ben gun anim"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "Week-Woody/captainBen_assets",
+	"position": [
+		-100,
+		250
+	],
+	"healthicon": "ben",
+	"flip_x": false,
+	"healthbar_colors": [
+		51,
+		204,
+		255
+	],
+	"camera_position": [
+		20,
+		0
+	],
+	"sing_duration": 6.1,
+	"scale": 1.1
+}

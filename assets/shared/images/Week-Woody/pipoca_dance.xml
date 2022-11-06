@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="pipoca_dance.png">
+	<!-- Created with Adobe Animate version 20.5.1.31044 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Pipoca but bruh0000" x="0" y="0" width="368" height="360" frameX="-1" frameY="-12" frameWidth="369" frameHeight="372"/>
+	<SubTexture name="Pipoca but bruh0001" x="0" y="0" width="368" height="360" frameX="-1" frameY="-12" frameWidth="369" frameHeight="372"/>
+	<SubTexture name="Pipoca but bruh0002" x="368" y="0" width="364" height="365" frameX="0" frameY="-7" frameWidth="369" frameHeight="372"/>
+	<SubTexture name="Pipoca but bruh0003" x="368" y="0" width="364" height="365" frameX="0" frameY="-7" frameWidth="369" frameHeight="372"/>
+	<SubTexture name="Pipoca but bruh0004" x="0" y="365" width="355" height="372" frameX="-4" frameY="0" frameWidth="369" frameHeight="372"/>
+	<SubTexture name="Pipoca but bruh0005" x="0" y="365" width="355" height="372" frameX="-4" frameY="0" frameWidth="369" frameHeight="372"/>
+	<SubTexture name="Pipoca but bruh0006" x="0" y="365" width="355" height="372" frameX="-4" frameY="0" frameWidth="369" frameHeight="372"/>
+	<SubTexture name="Pipoca but bruh0007" x="0" y="365" width="355" height="372" frameX="-4" frameY="0" frameWidth="369" frameHeight="372"/>
+	<SubTexture name="Pipoca but bruh0008" x="0" y="365" width="355" height="372" frameX="-4" frameY="0" frameWidth="369" frameHeight="372"/>
+	<SubTexture name="Pipoca but bruh0009" x="0" y="365" width="355" height="372" frameX="-4" frameY="0" frameWidth="369" frameHeight="372"/>
+	<SubTexture name="Pipoca but bruh0010" x="0" y="365" width="355" height="372" frameX="-4" frameY="0" frameWidth="369" frameHeight="372"/>
+	<SubTexture name="Pipoca but bruh0011" x="0" y="365" width="355" height="372" frameX="-4" frameY="0" frameWidth="369" frameHeight="372"/>
+	<SubTexture name="Pipoca but bruh0012" x="0" y="365" width="355" height="372" frameX="-4" frameY="0" frameWidth="369" frameHeight="372"/>
+	<SubTexture name="Pipoca but bruh0013" x="0" y="365" width="355" height="372" frameX="-4" frameY="0" frameWidth="369" frameHeight="372"/>
+</TextureAtlas>

@@ -1,0 +1,139 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "Talking Ben Idle"
+		},
+		{
+			"offsets": [
+				-8,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Talking Ben Left"
+		},
+		{
+			"offsets": [
+				3,
+				-8
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Talking Ben Down"
+		},
+		{
+			"offsets": [
+				-17,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Talking Ben Right"
+		},
+		{
+			"offsets": [
+				-18,
+				16
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Talking Ben Up"
+		},
+		{
+			"offsets": [
+				-13,
+				6
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "Ho!",
+			"indices": [],
+			"name": "Talking Ben Ho-ho-ho!"
+		},
+		{
+			"offsets": [
+				-38,
+				93
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "Lol",
+			"indices": [],
+			"name": "Talking Ben A"
+		},
+		{
+			"offsets": [
+				-9,
+				-9
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "No",
+			"indices": [],
+			"name": "Talking Ben No"
+		},
+		{
+			"offsets": [
+				-38,
+				93
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "Lol-loop",
+			"indices": [
+				5,
+				6,
+				7,
+				8,
+				9
+			],
+			"name": "Talking Ben A"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-4,
+				0
+			],
+			"anim": "Yes",
+			"fps": 24,
+			"name": "Talking Ben Yes",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "Week-Woody/talking_ben",
+	"position": [
+		0,
+		80
+	],
+	"healthicon": "talkingben",
+	"flip_x": false,
+	"healthbar_colors": [
+		203,
+		153,
+		125
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

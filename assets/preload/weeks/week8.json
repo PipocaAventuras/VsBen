@@ -1,0 +1,57 @@
+{
+	"storyName": "estevam",
+	"hideFreeplay": false,
+	"weekBackground": "restaurant",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"songs": [
+		[
+			"Bro",
+			"estevam",
+			[
+				0,
+				173,
+				255
+			]
+		],
+		[
+			"Summed Up",
+			"estevam",
+			[
+				0,
+				173,
+				255
+			]
+		],
+		[
+			"Happiness",
+			"estevam",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"Detained",
+			"dad",
+			[
+				146,
+				113,
+				253
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "restaurant week"
+}

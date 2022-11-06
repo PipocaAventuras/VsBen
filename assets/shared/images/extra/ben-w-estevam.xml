@@ -1,0 +1,138 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="ben-w-estevam.png">
+	<!-- Created with Adobe Animate version 20.5.1.31044 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="ben and estevam thinged0000" x="0" y="0" width="440" height="483" frameX="0" frameY="-5" frameWidth="442" frameHeight="488"/>
+	<SubTexture name="ben and estevam thinged0001" x="0" y="0" width="440" height="483" frameX="0" frameY="-5" frameWidth="442" frameHeight="488"/>
+	<SubTexture name="ben and estevam thinged0002" x="440" y="0" width="438" height="482" frameX="-4" frameY="-6" frameWidth="442" frameHeight="488"/>
+	<SubTexture name="ben and estevam thinged0003" x="440" y="0" width="438" height="482" frameX="-4" frameY="-6" frameWidth="442" frameHeight="488"/>
+	<SubTexture name="ben and estevam thinged0004" x="878" y="0" width="419" height="483" frameX="-12" frameY="-5" frameWidth="442" frameHeight="488"/>
+	<SubTexture name="ben and estevam thinged0005" x="878" y="0" width="419" height="483" frameX="-12" frameY="-5" frameWidth="442" frameHeight="488"/>
+	<SubTexture name="ben and estevam thinged0006" x="1297" y="0" width="411" height="487" frameX="-14" frameY="-1" frameWidth="442" frameHeight="488"/>
+	<SubTexture name="ben and estevam thinged0007" x="1297" y="0" width="411" height="487" frameX="-14" frameY="-1" frameWidth="442" frameHeight="488"/>
+	<SubTexture name="ben and estevam thinged0008" x="1708" y="0" width="410" height="488" frameX="-14" frameY="0" frameWidth="442" frameHeight="488"/>
+	<SubTexture name="ben and estevam thinged0009" x="1708" y="0" width="410" height="488" frameX="-14" frameY="0" frameWidth="442" frameHeight="488"/>
+	<SubTexture name="ben and estevam thinged0010" x="1708" y="0" width="410" height="488" frameX="-14" frameY="0" frameWidth="442" frameHeight="488"/>
+	<SubTexture name="ben and estevam thinged0011" x="1708" y="0" width="410" height="488" frameX="-14" frameY="0" frameWidth="442" frameHeight="488"/>
+	<SubTexture name="ben and estevam thinged0012" x="1708" y="0" width="410" height="488" frameX="-14" frameY="0" frameWidth="442" frameHeight="488"/>
+	<SubTexture name="ben and estevam thinged down ben0000" x="2118" y="0" width="464" height="471" frameX="0" frameY="-10" frameWidth="464" frameHeight="481"/>
+	<SubTexture name="ben and estevam thinged down ben0001" x="2118" y="0" width="464" height="471" frameX="0" frameY="-10" frameWidth="464" frameHeight="481"/>
+	<SubTexture name="ben and estevam thinged down ben0002" x="2582" y="0" width="455" height="474" frameX="-7" frameY="-7" frameWidth="464" frameHeight="481"/>
+	<SubTexture name="ben and estevam thinged down ben0003" x="2582" y="0" width="455" height="474" frameX="-7" frameY="-7" frameWidth="464" frameHeight="481"/>
+	<SubTexture name="ben and estevam thinged down ben0004" x="3037" y="0" width="438" height="481" frameX="-17" frameY="0" frameWidth="464" frameHeight="481"/>
+	<SubTexture name="ben and estevam thinged down ben0005" x="3037" y="0" width="438" height="481" frameX="-17" frameY="0" frameWidth="464" frameHeight="481"/>
+	<SubTexture name="ben and estevam thinged down ben0006" x="3037" y="0" width="438" height="481" frameX="-17" frameY="0" frameWidth="464" frameHeight="481"/>
+	<SubTexture name="ben and estevam thinged down ben0007" x="3037" y="0" width="438" height="481" frameX="-17" frameY="0" frameWidth="464" frameHeight="481"/>
+	<SubTexture name="ben and estevam thinged down ben0008" x="3037" y="0" width="438" height="481" frameX="-17" frameY="0" frameWidth="464" frameHeight="481"/>
+	<SubTexture name="ben and estevam thinged down ben0009" x="3037" y="0" width="438" height="481" frameX="-17" frameY="0" frameWidth="464" frameHeight="481"/>
+	<SubTexture name="ben and estevam thinged down ben0010" x="3037" y="0" width="438" height="481" frameX="-17" frameY="0" frameWidth="464" frameHeight="481"/>
+	<SubTexture name="ben and estevam thinged down ben0011" x="3037" y="0" width="438" height="481" frameX="-17" frameY="0" frameWidth="464" frameHeight="481"/>
+	<SubTexture name="ben and estevam thinged down ben0012" x="3037" y="0" width="438" height="481" frameX="-17" frameY="0" frameWidth="464" frameHeight="481"/>
+	<SubTexture name="ben and estevam thinged down ben0013" x="3037" y="0" width="438" height="481" frameX="-17" frameY="0" frameWidth="464" frameHeight="481"/>
+	<SubTexture name="ben and estevam thinged down ben0014" x="3037" y="0" width="438" height="481" frameX="-17" frameY="0" frameWidth="464" frameHeight="481"/>
+	<SubTexture name="ben and estevam thinged down estevam0000" x="3475" y="0" width="464" height="471" frameX="0" frameY="-10" frameWidth="464" frameHeight="481"/>
+	<SubTexture name="ben and estevam thinged down estevam0001" x="3475" y="0" width="464" height="471" frameX="0" frameY="-10" frameWidth="464" frameHeight="481"/>
+	<SubTexture name="ben and estevam thinged down estevam0002" x="0" y="488" width="455" height="474" frameX="-7" frameY="-7" frameWidth="464" frameHeight="481"/>
+	<SubTexture name="ben and estevam thinged down estevam0003" x="0" y="488" width="455" height="474" frameX="-7" frameY="-7" frameWidth="464" frameHeight="481"/>
+	<SubTexture name="ben and estevam thinged down estevam0004" x="455" y="488" width="438" height="481" frameX="-17" frameY="0" frameWidth="464" frameHeight="481"/>
+	<SubTexture name="ben and estevam thinged down estevam0005" x="455" y="488" width="438" height="481" frameX="-17" frameY="0" frameWidth="464" frameHeight="481"/>
+	<SubTexture name="ben and estevam thinged down estevam0006" x="455" y="488" width="438" height="481" frameX="-17" frameY="0" frameWidth="464" frameHeight="481"/>
+	<SubTexture name="ben and estevam thinged down estevam0007" x="455" y="488" width="438" height="481" frameX="-17" frameY="0" frameWidth="464" frameHeight="481"/>
+	<SubTexture name="ben and estevam thinged down estevam0008" x="455" y="488" width="438" height="481" frameX="-17" frameY="0" frameWidth="464" frameHeight="481"/>
+	<SubTexture name="ben and estevam thinged down estevam0009" x="455" y="488" width="438" height="481" frameX="-17" frameY="0" frameWidth="464" frameHeight="481"/>
+	<SubTexture name="ben and estevam thinged down estevam0010" x="455" y="488" width="438" height="481" frameX="-17" frameY="0" frameWidth="464" frameHeight="481"/>
+	<SubTexture name="ben and estevam thinged down estevam0011" x="455" y="488" width="438" height="481" frameX="-17" frameY="0" frameWidth="464" frameHeight="481"/>
+	<SubTexture name="ben and estevam thinged down estevam0012" x="455" y="488" width="438" height="481" frameX="-17" frameY="0" frameWidth="464" frameHeight="481"/>
+	<SubTexture name="ben and estevam thinged down estevam0013" x="455" y="488" width="438" height="481" frameX="-17" frameY="0" frameWidth="464" frameHeight="481"/>
+	<SubTexture name="ben and estevam thinged down estevam0014" x="455" y="488" width="438" height="481" frameX="-17" frameY="0" frameWidth="464" frameHeight="481"/>
+	<SubTexture name="ben and estevam thinged left ben0000" x="893" y="488" width="419" height="479" frameX="0" frameY="-4" frameWidth="427" frameHeight="483"/>
+	<SubTexture name="ben and estevam thinged left ben0001" x="893" y="488" width="419" height="479" frameX="0" frameY="-4" frameWidth="427" frameHeight="483"/>
+	<SubTexture name="ben and estevam thinged left ben0002" x="1312" y="488" width="417" height="481" frameX="-5" frameY="-2" frameWidth="427" frameHeight="483"/>
+	<SubTexture name="ben and estevam thinged left ben0003" x="1312" y="488" width="417" height="481" frameX="-5" frameY="-2" frameWidth="427" frameHeight="483"/>
+	<SubTexture name="ben and estevam thinged left ben0004" x="1729" y="488" width="413" height="483" frameX="-14" frameY="0" frameWidth="427" frameHeight="483"/>
+	<SubTexture name="ben and estevam thinged left ben0005" x="1729" y="488" width="413" height="483" frameX="-14" frameY="0" frameWidth="427" frameHeight="483"/>
+	<SubTexture name="ben and estevam thinged left ben0006" x="1729" y="488" width="413" height="483" frameX="-14" frameY="0" frameWidth="427" frameHeight="483"/>
+	<SubTexture name="ben and estevam thinged left ben0007" x="1729" y="488" width="413" height="483" frameX="-14" frameY="0" frameWidth="427" frameHeight="483"/>
+	<SubTexture name="ben and estevam thinged left ben0008" x="1729" y="488" width="413" height="483" frameX="-14" frameY="0" frameWidth="427" frameHeight="483"/>
+	<SubTexture name="ben and estevam thinged left ben0009" x="1729" y="488" width="413" height="483" frameX="-14" frameY="0" frameWidth="427" frameHeight="483"/>
+	<SubTexture name="ben and estevam thinged left ben0010" x="1729" y="488" width="413" height="483" frameX="-14" frameY="0" frameWidth="427" frameHeight="483"/>
+	<SubTexture name="ben and estevam thinged left ben0011" x="1729" y="488" width="413" height="483" frameX="-14" frameY="0" frameWidth="427" frameHeight="483"/>
+	<SubTexture name="ben and estevam thinged left ben0012" x="1729" y="488" width="413" height="483" frameX="-14" frameY="0" frameWidth="427" frameHeight="483"/>
+	<SubTexture name="ben and estevam thinged left ben0013" x="1729" y="488" width="413" height="483" frameX="-14" frameY="0" frameWidth="427" frameHeight="483"/>
+	<SubTexture name="ben and estevam thinged left ben0014" x="1729" y="488" width="413" height="483" frameX="-14" frameY="0" frameWidth="427" frameHeight="483"/>
+	<SubTexture name="ben and estevam thinged left estevam0000" x="2142" y="488" width="424" height="479" frameX="0" frameY="-4" frameWidth="427" frameHeight="483"/>
+	<SubTexture name="ben and estevam thinged left estevam0001" x="2142" y="488" width="424" height="479" frameX="0" frameY="-4" frameWidth="427" frameHeight="483"/>
+	<SubTexture name="ben and estevam thinged left estevam0002" x="2566" y="488" width="420" height="481" frameX="-5" frameY="-2" frameWidth="427" frameHeight="483"/>
+	<SubTexture name="ben and estevam thinged left estevam0003" x="2566" y="488" width="420" height="481" frameX="-5" frameY="-2" frameWidth="427" frameHeight="483"/>
+	<SubTexture name="ben and estevam thinged left estevam0004" x="2986" y="488" width="413" height="483" frameX="-14" frameY="0" frameWidth="427" frameHeight="483"/>
+	<SubTexture name="ben and estevam thinged left estevam0005" x="2986" y="488" width="413" height="483" frameX="-14" frameY="0" frameWidth="427" frameHeight="483"/>
+	<SubTexture name="ben and estevam thinged left estevam0006" x="2986" y="488" width="413" height="483" frameX="-14" frameY="0" frameWidth="427" frameHeight="483"/>
+	<SubTexture name="ben and estevam thinged left estevam0007" x="2986" y="488" width="413" height="483" frameX="-14" frameY="0" frameWidth="427" frameHeight="483"/>
+	<SubTexture name="ben and estevam thinged left estevam0008" x="2986" y="488" width="413" height="483" frameX="-14" frameY="0" frameWidth="427" frameHeight="483"/>
+	<SubTexture name="ben and estevam thinged left estevam0009" x="2986" y="488" width="413" height="483" frameX="-14" frameY="0" frameWidth="427" frameHeight="483"/>
+	<SubTexture name="ben and estevam thinged left estevam0010" x="2986" y="488" width="413" height="483" frameX="-14" frameY="0" frameWidth="427" frameHeight="483"/>
+	<SubTexture name="ben and estevam thinged left estevam0011" x="2986" y="488" width="413" height="483" frameX="-14" frameY="0" frameWidth="427" frameHeight="483"/>
+	<SubTexture name="ben and estevam thinged left estevam0012" x="2986" y="488" width="413" height="483" frameX="-14" frameY="0" frameWidth="427" frameHeight="483"/>
+	<SubTexture name="ben and estevam thinged left estevam0013" x="2986" y="488" width="413" height="483" frameX="-14" frameY="0" frameWidth="427" frameHeight="483"/>
+	<SubTexture name="ben and estevam thinged left estevam0014" x="2986" y="488" width="413" height="483" frameX="-14" frameY="0" frameWidth="427" frameHeight="483"/>
+	<SubTexture name="ben and estevam thinged right ben0000" x="3399" y="488" width="422" height="491" frameX="-2" frameY="0" frameWidth="424" frameHeight="491"/>
+	<SubTexture name="ben and estevam thinged right ben0001" x="3399" y="488" width="422" height="491" frameX="-2" frameY="0" frameWidth="424" frameHeight="491"/>
+	<SubTexture name="ben and estevam thinged right ben0002" x="0" y="979" width="423" height="490" frameX="-1" frameY="-1" frameWidth="424" frameHeight="491"/>
+	<SubTexture name="ben and estevam thinged right ben0003" x="0" y="979" width="423" height="490" frameX="-1" frameY="-1" frameWidth="424" frameHeight="491"/>
+	<SubTexture name="ben and estevam thinged right ben0004" x="423" y="979" width="422" height="490" frameX="0" frameY="-1" frameWidth="424" frameHeight="491"/>
+	<SubTexture name="ben and estevam thinged right ben0005" x="423" y="979" width="422" height="490" frameX="0" frameY="-1" frameWidth="424" frameHeight="491"/>
+	<SubTexture name="ben and estevam thinged right ben0006" x="423" y="979" width="422" height="490" frameX="0" frameY="-1" frameWidth="424" frameHeight="491"/>
+	<SubTexture name="ben and estevam thinged right ben0007" x="423" y="979" width="422" height="490" frameX="0" frameY="-1" frameWidth="424" frameHeight="491"/>
+	<SubTexture name="ben and estevam thinged right ben0008" x="423" y="979" width="422" height="490" frameX="0" frameY="-1" frameWidth="424" frameHeight="491"/>
+	<SubTexture name="ben and estevam thinged right ben0009" x="423" y="979" width="422" height="490" frameX="0" frameY="-1" frameWidth="424" frameHeight="491"/>
+	<SubTexture name="ben and estevam thinged right ben0010" x="423" y="979" width="422" height="490" frameX="0" frameY="-1" frameWidth="424" frameHeight="491"/>
+	<SubTexture name="ben and estevam thinged right ben0011" x="423" y="979" width="422" height="490" frameX="0" frameY="-1" frameWidth="424" frameHeight="491"/>
+	<SubTexture name="ben and estevam thinged right ben0012" x="423" y="979" width="422" height="490" frameX="0" frameY="-1" frameWidth="424" frameHeight="491"/>
+	<SubTexture name="ben and estevam thinged right ben0013" x="423" y="979" width="422" height="490" frameX="0" frameY="-1" frameWidth="424" frameHeight="491"/>
+	<SubTexture name="ben and estevam thinged right ben0014" x="423" y="979" width="422" height="490" frameX="0" frameY="-1" frameWidth="424" frameHeight="491"/>
+	<SubTexture name="ben and estevam thinged right estevam0000" x="845" y="979" width="422" height="491" frameX="-2" frameY="0" frameWidth="424" frameHeight="491"/>
+	<SubTexture name="ben and estevam thinged right estevam0001" x="845" y="979" width="422" height="491" frameX="-2" frameY="0" frameWidth="424" frameHeight="491"/>
+	<SubTexture name="ben and estevam thinged right estevam0002" x="1267" y="979" width="423" height="490" frameX="-1" frameY="-1" frameWidth="424" frameHeight="491"/>
+	<SubTexture name="ben and estevam thinged right estevam0003" x="1267" y="979" width="423" height="490" frameX="-1" frameY="-1" frameWidth="424" frameHeight="491"/>
+	<SubTexture name="ben and estevam thinged right estevam0004" x="1690" y="979" width="422" height="490" frameX="0" frameY="-1" frameWidth="424" frameHeight="491"/>
+	<SubTexture name="ben and estevam thinged right estevam0005" x="1690" y="979" width="422" height="490" frameX="0" frameY="-1" frameWidth="424" frameHeight="491"/>
+	<SubTexture name="ben and estevam thinged right estevam0006" x="1690" y="979" width="422" height="490" frameX="0" frameY="-1" frameWidth="424" frameHeight="491"/>
+	<SubTexture name="ben and estevam thinged right estevam0007" x="1690" y="979" width="422" height="490" frameX="0" frameY="-1" frameWidth="424" frameHeight="491"/>
+	<SubTexture name="ben and estevam thinged right estevam0008" x="1690" y="979" width="422" height="490" frameX="0" frameY="-1" frameWidth="424" frameHeight="491"/>
+	<SubTexture name="ben and estevam thinged right estevam0009" x="1690" y="979" width="422" height="490" frameX="0" frameY="-1" frameWidth="424" frameHeight="491"/>
+	<SubTexture name="ben and estevam thinged right estevam0010" x="1690" y="979" width="422" height="490" frameX="0" frameY="-1" frameWidth="424" frameHeight="491"/>
+	<SubTexture name="ben and estevam thinged right estevam0011" x="1690" y="979" width="422" height="490" frameX="0" frameY="-1" frameWidth="424" frameHeight="491"/>
+	<SubTexture name="ben and estevam thinged right estevam0012" x="1690" y="979" width="422" height="490" frameX="0" frameY="-1" frameWidth="424" frameHeight="491"/>
+	<SubTexture name="ben and estevam thinged right estevam0013" x="1690" y="979" width="422" height="490" frameX="0" frameY="-1" frameWidth="424" frameHeight="491"/>
+	<SubTexture name="ben and estevam thinged right estevam0014" x="1690" y="979" width="422" height="490" frameX="0" frameY="-1" frameWidth="424" frameHeight="491"/>
+	<SubTexture name="ben and estevam thinged up ben0000" x="2112" y="979" width="387" height="490" frameX="-7" frameY="-2" frameWidth="394" frameHeight="492"/>
+	<SubTexture name="ben and estevam thinged up ben0001" x="2112" y="979" width="387" height="490" frameX="-7" frameY="-2" frameWidth="394" frameHeight="492"/>
+	<SubTexture name="ben and estevam thinged up ben0002" x="2499" y="979" width="388" height="491" frameX="-3" frameY="-1" frameWidth="394" frameHeight="492"/>
+	<SubTexture name="ben and estevam thinged up ben0003" x="2499" y="979" width="388" height="491" frameX="-3" frameY="-1" frameWidth="394" frameHeight="492"/>
+	<SubTexture name="ben and estevam thinged up ben0004" x="2887" y="979" width="390" height="492" frameX="0" frameY="0" frameWidth="394" frameHeight="492"/>
+	<SubTexture name="ben and estevam thinged up ben0005" x="2887" y="979" width="390" height="492" frameX="0" frameY="0" frameWidth="394" frameHeight="492"/>
+	<SubTexture name="ben and estevam thinged up ben0006" x="2887" y="979" width="390" height="492" frameX="0" frameY="0" frameWidth="394" frameHeight="492"/>
+	<SubTexture name="ben and estevam thinged up ben0007" x="2887" y="979" width="390" height="492" frameX="0" frameY="0" frameWidth="394" frameHeight="492"/>
+	<SubTexture name="ben and estevam thinged up ben0008" x="2887" y="979" width="390" height="492" frameX="0" frameY="0" frameWidth="394" frameHeight="492"/>
+	<SubTexture name="ben and estevam thinged up ben0009" x="2887" y="979" width="390" height="492" frameX="0" frameY="0" frameWidth="394" frameHeight="492"/>
+	<SubTexture name="ben and estevam thinged up ben0010" x="2887" y="979" width="390" height="492" frameX="0" frameY="0" frameWidth="394" frameHeight="492"/>
+	<SubTexture name="ben and estevam thinged up ben0011" x="2887" y="979" width="390" height="492" frameX="0" frameY="0" frameWidth="394" frameHeight="492"/>
+	<SubTexture name="ben and estevam thinged up ben0012" x="2887" y="979" width="390" height="492" frameX="0" frameY="0" frameWidth="394" frameHeight="492"/>
+	<SubTexture name="ben and estevam thinged up ben0013" x="2887" y="979" width="390" height="492" frameX="0" frameY="0" frameWidth="394" frameHeight="492"/>
+	<SubTexture name="ben and estevam thinged up ben0014" x="2887" y="979" width="390" height="492" frameX="0" frameY="0" frameWidth="394" frameHeight="492"/>
+	<SubTexture name="ben and estevam thinged up estevam0000" x="3277" y="979" width="387" height="490" frameX="-7" frameY="-2" frameWidth="394" frameHeight="492"/>
+	<SubTexture name="ben and estevam thinged up estevam0001" x="3277" y="979" width="387" height="490" frameX="-7" frameY="-2" frameWidth="394" frameHeight="492"/>
+	<SubTexture name="ben and estevam thinged up estevam0002" x="3664" y="979" width="388" height="491" frameX="-3" frameY="-1" frameWidth="394" frameHeight="492"/>
+	<SubTexture name="ben and estevam thinged up estevam0003" x="3664" y="979" width="388" height="491" frameX="-3" frameY="-1" frameWidth="394" frameHeight="492"/>
+	<SubTexture name="ben and estevam thinged up estevam0004" x="0" y="1471" width="390" height="492" frameX="0" frameY="0" frameWidth="394" frameHeight="492"/>
+	<SubTexture name="ben and estevam thinged up estevam0005" x="0" y="1471" width="390" height="492" frameX="0" frameY="0" frameWidth="394" frameHeight="492"/>
+	<SubTexture name="ben and estevam thinged up estevam0006" x="0" y="1471" width="390" height="492" frameX="0" frameY="0" frameWidth="394" frameHeight="492"/>
+	<SubTexture name="ben and estevam thinged up estevam0007" x="0" y="1471" width="390" height="492" frameX="0" frameY="0" frameWidth="394" frameHeight="492"/>
+	<SubTexture name="ben and estevam thinged up estevam0008" x="0" y="1471" width="390" height="492" frameX="0" frameY="0" frameWidth="394" frameHeight="492"/>
+	<SubTexture name="ben and estevam thinged up estevam0009" x="0" y="1471" width="390" height="492" frameX="0" frameY="0" frameWidth="394" frameHeight="492"/>
+	<SubTexture name="ben and estevam thinged up estevam0010" x="0" y="1471" width="390" height="492" frameX="0" frameY="0" frameWidth="394" frameHeight="492"/>
+	<SubTexture name="ben and estevam thinged up estevam0011" x="0" y="1471" width="390" height="492" frameX="0" frameY="0" frameWidth="394" frameHeight="492"/>
+	<SubTexture name="ben and estevam thinged up estevam0012" x="0" y="1471" width="390" height="492" frameX="0" frameY="0" frameWidth="394" frameHeight="492"/>
+	<SubTexture name="ben and estevam thinged up estevam0013" x="0" y="1471" width="390" height="492" frameX="0" frameY="0" frameWidth="394" frameHeight="492"/>
+	<SubTexture name="ben and estevam thinged up estevam0014" x="0" y="1471" width="390" height="492" frameX="0" frameY="0" frameWidth="394" frameHeight="492"/>
+</TextureAtlas>

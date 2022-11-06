@@ -1,0 +1,131 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="ben_shark_escape_dead.png">
+	<!-- Created with Adobe Animate version 20.5.1.31044 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Ben Dead Loop0000" x="0" y="0" width="242" height="329" frameX="-3" frameY="0" frameWidth="245" frameHeight="329"/>
+	<SubTexture name="Ben Dead Loop0001" x="242" y="0" width="242" height="329" frameX="-3" frameY="0" frameWidth="245" frameHeight="329"/>
+	<SubTexture name="Ben Dead Loop0002" x="242" y="0" width="242" height="329" frameX="-3" frameY="0" frameWidth="245" frameHeight="329"/>
+	<SubTexture name="Ben Dead Loop0003" x="484" y="0" width="242" height="329" frameX="-3" frameY="0" frameWidth="245" frameHeight="329"/>
+	<SubTexture name="Ben Dead Loop0004" x="484" y="0" width="242" height="329" frameX="-3" frameY="0" frameWidth="245" frameHeight="329"/>
+	<SubTexture name="Ben Dead Loop0005" x="726" y="0" width="242" height="329" frameX="-3" frameY="0" frameWidth="245" frameHeight="329"/>
+	<SubTexture name="Ben Dead Loop0006" x="726" y="0" width="242" height="329" frameX="-3" frameY="0" frameWidth="245" frameHeight="329"/>
+	<SubTexture name="Ben Dead Loop0007" x="726" y="0" width="242" height="329" frameX="-3" frameY="0" frameWidth="245" frameHeight="329"/>
+	<SubTexture name="Ben Dead Loop0008" x="726" y="0" width="242" height="329" frameX="-3" frameY="0" frameWidth="245" frameHeight="329"/>
+	<SubTexture name="Ben Dead Loop0009" x="726" y="0" width="242" height="329" frameX="-3" frameY="0" frameWidth="245" frameHeight="329"/>
+	<SubTexture name="Ben Dead Loop0010" x="726" y="0" width="242" height="329" frameX="-3" frameY="0" frameWidth="245" frameHeight="329"/>
+	<SubTexture name="Ben Dead Loop0011" x="726" y="0" width="242" height="329" frameX="-3" frameY="0" frameWidth="245" frameHeight="329"/>
+	<SubTexture name="Ben Dead Loop0012" x="726" y="0" width="242" height="329" frameX="-3" frameY="0" frameWidth="245" frameHeight="329"/>
+	<SubTexture name="Ben Dead Loop0013" x="726" y="0" width="242" height="329" frameX="-3" frameY="0" frameWidth="245" frameHeight="329"/>
+	<SubTexture name="Ben Dead Loop0014" x="726" y="0" width="242" height="329" frameX="-3" frameY="0" frameWidth="245" frameHeight="329"/>
+	<SubTexture name="Ben Dead Loop0015" x="968" y="0" width="239" height="329" frameX="0" frameY="0" frameWidth="245" frameHeight="329"/>
+	<SubTexture name="Ben Dead Loop0016" x="726" y="0" width="242" height="329" frameX="-3" frameY="0" frameWidth="245" frameHeight="329"/>
+	<SubTexture name="Ben Dead Loop0017" x="0" y="0" width="242" height="329" frameX="-3" frameY="0" frameWidth="245" frameHeight="329"/>
+	<SubTexture name="Ben Dead Loop0018" x="242" y="0" width="242" height="329" frameX="-3" frameY="0" frameWidth="245" frameHeight="329"/>
+	<SubTexture name="Ben Dead Loop0019" x="242" y="0" width="242" height="329" frameX="-3" frameY="0" frameWidth="245" frameHeight="329"/>
+	<SubTexture name="Ben Dead Loop0020" x="484" y="0" width="242" height="329" frameX="-3" frameY="0" frameWidth="245" frameHeight="329"/>
+	<SubTexture name="Ben Dead Loop0021" x="484" y="0" width="242" height="329" frameX="-3" frameY="0" frameWidth="245" frameHeight="329"/>
+	<SubTexture name="Ben Dead Loop0022" x="726" y="0" width="242" height="329" frameX="-3" frameY="0" frameWidth="245" frameHeight="329"/>
+	<SubTexture name="Ben Dead Loop0023" x="726" y="0" width="242" height="329" frameX="-3" frameY="0" frameWidth="245" frameHeight="329"/>
+	<SubTexture name="Ben Dead Loop0024" x="726" y="0" width="242" height="329" frameX="-3" frameY="0" frameWidth="245" frameHeight="329"/>
+	<SubTexture name="Ben Dead Loop0025" x="726" y="0" width="242" height="329" frameX="-3" frameY="0" frameWidth="245" frameHeight="329"/>
+	<SubTexture name="Ben Dead Loop0026" x="726" y="0" width="242" height="329" frameX="-3" frameY="0" frameWidth="245" frameHeight="329"/>
+	<SubTexture name="Ben Dead Loop0027" x="726" y="0" width="242" height="329" frameX="-3" frameY="0" frameWidth="245" frameHeight="329"/>
+	<SubTexture name="Ben Dead Loop0028" x="726" y="0" width="242" height="329" frameX="-3" frameY="0" frameWidth="245" frameHeight="329"/>
+	<SubTexture name="Ben Dead Loop0029" x="726" y="0" width="242" height="329" frameX="-3" frameY="0" frameWidth="245" frameHeight="329"/>
+	<SubTexture name="Ben Dead Loop0030" x="726" y="0" width="242" height="329" frameX="-3" frameY="0" frameWidth="245" frameHeight="329"/>
+	<SubTexture name="Ben Dead Loop0031" x="726" y="0" width="242" height="329" frameX="-3" frameY="0" frameWidth="245" frameHeight="329"/>
+	<SubTexture name="Ben Dead Loop0032" x="726" y="0" width="242" height="329" frameX="-3" frameY="0" frameWidth="245" frameHeight="329"/>
+	<SubTexture name="Ben Dead Loop0033" x="726" y="0" width="242" height="329" frameX="-3" frameY="0" frameWidth="245" frameHeight="329"/>
+	<SubTexture name="Ben Dead confirm0000" x="1207" y="0" width="242" height="329" frameX="0" frameY="-1" frameWidth="277" frameHeight="330"/>
+	<SubTexture name="Ben Dead confirm0001" x="1449" y="0" width="257" height="329" frameX="0" frameY="-1" frameWidth="277" frameHeight="330"/>
+	<SubTexture name="Ben Dead confirm0002" x="1706" y="0" width="257" height="330" frameX="0" frameY="0" frameWidth="277" frameHeight="330"/>
+	<SubTexture name="Ben Dead confirm0003" x="1963" y="0" width="257" height="329" frameX="0" frameY="-1" frameWidth="277" frameHeight="330"/>
+	<SubTexture name="Ben Dead confirm0004" x="2220" y="0" width="257" height="329" frameX="0" frameY="-1" frameWidth="277" frameHeight="330"/>
+	<SubTexture name="Ben Dead confirm0005" x="2477" y="0" width="257" height="329" frameX="0" frameY="-1" frameWidth="277" frameHeight="330"/>
+	<SubTexture name="Ben Dead confirm0006" x="2734" y="0" width="257" height="329" frameX="0" frameY="-1" frameWidth="277" frameHeight="330"/>
+	<SubTexture name="Ben Dead confirm0007" x="2991" y="0" width="257" height="329" frameX="0" frameY="-1" frameWidth="277" frameHeight="330"/>
+	<SubTexture name="Ben Dead confirm0008" x="3248" y="0" width="257" height="329" frameX="0" frameY="-1" frameWidth="277" frameHeight="330"/>
+	<SubTexture name="Ben Dead confirm0009" x="3505" y="0" width="257" height="329" frameX="0" frameY="-1" frameWidth="277" frameHeight="330"/>
+	<SubTexture name="Ben Dead confirm0010" x="3762" y="0" width="257" height="329" frameX="0" frameY="-1" frameWidth="277" frameHeight="330"/>
+	<SubTexture name="Ben Dead confirm0011" x="0" y="330" width="257" height="329" frameX="0" frameY="-1" frameWidth="277" frameHeight="330"/>
+	<SubTexture name="Ben Dead confirm0012" x="257" y="330" width="258" height="329" frameX="0" frameY="-1" frameWidth="277" frameHeight="330"/>
+	<SubTexture name="Ben Dead confirm0013" x="515" y="330" width="260" height="329" frameX="0" frameY="-1" frameWidth="277" frameHeight="330"/>
+	<SubTexture name="Ben Dead confirm0014" x="775" y="330" width="263" height="329" frameX="0" frameY="-1" frameWidth="277" frameHeight="330"/>
+	<SubTexture name="Ben Dead confirm0015" x="1038" y="330" width="265" height="329" frameX="0" frameY="-1" frameWidth="277" frameHeight="330"/>
+	<SubTexture name="Ben Dead confirm0016" x="1303" y="330" width="268" height="329" frameX="0" frameY="-1" frameWidth="277" frameHeight="330"/>
+	<SubTexture name="Ben Dead confirm0017" x="1571" y="330" width="269" height="329" frameX="0" frameY="-1" frameWidth="277" frameHeight="330"/>
+	<SubTexture name="Ben Dead confirm0018" x="1840" y="330" width="271" height="329" frameX="0" frameY="-1" frameWidth="277" frameHeight="330"/>
+	<SubTexture name="Ben Dead confirm0019" x="2111" y="330" width="273" height="329" frameX="0" frameY="-1" frameWidth="277" frameHeight="330"/>
+	<SubTexture name="Ben Dead confirm0020" x="2384" y="330" width="274" height="329" frameX="0" frameY="-1" frameWidth="277" frameHeight="330"/>
+	<SubTexture name="Ben Dead confirm0021" x="2384" y="330" width="274" height="329" frameX="0" frameY="-1" frameWidth="277" frameHeight="330"/>
+	<SubTexture name="Ben Dead confirm0022" x="2658" y="330" width="276" height="329" frameX="0" frameY="-1" frameWidth="277" frameHeight="330"/>
+	<SubTexture name="Ben Dead confirm0023" x="2658" y="330" width="276" height="329" frameX="0" frameY="-1" frameWidth="277" frameHeight="330"/>
+	<SubTexture name="Ben Dead confirm0024" x="2658" y="330" width="276" height="329" frameX="0" frameY="-1" frameWidth="277" frameHeight="330"/>
+	<SubTexture name="Ben Dead confirm0025" x="2658" y="330" width="276" height="329" frameX="0" frameY="-1" frameWidth="277" frameHeight="330"/>
+	<SubTexture name="Ben Dead confirm0026" x="2658" y="330" width="276" height="329" frameX="0" frameY="-1" frameWidth="277" frameHeight="330"/>
+	<SubTexture name="Ben Dead confirm0027" x="2658" y="330" width="276" height="329" frameX="0" frameY="-1" frameWidth="277" frameHeight="330"/>
+	<SubTexture name="Ben Dead confirm0028" x="2658" y="330" width="276" height="329" frameX="0" frameY="-1" frameWidth="277" frameHeight="330"/>
+	<SubTexture name="Ben Dead confirm0029" x="2658" y="330" width="276" height="329" frameX="0" frameY="-1" frameWidth="277" frameHeight="330"/>
+	<SubTexture name="Ben Dead confirm0030" x="2658" y="330" width="276" height="329" frameX="0" frameY="-1" frameWidth="277" frameHeight="330"/>
+	<SubTexture name="Ben Dead confirm0031" x="2658" y="330" width="276" height="329" frameX="0" frameY="-1" frameWidth="277" frameHeight="330"/>
+	<SubTexture name="Ben Dead confirm0032" x="2658" y="330" width="276" height="329" frameX="0" frameY="-1" frameWidth="277" frameHeight="330"/>
+	<SubTexture name="Ben Dead confirm0033" x="2658" y="330" width="276" height="329" frameX="0" frameY="-1" frameWidth="277" frameHeight="330"/>
+	<SubTexture name="Ben dies0000" x="2934" y="330" width="242" height="329"/>
+	<SubTexture name="Ben dies0001" x="2934" y="330" width="242" height="329"/>
+	<SubTexture name="Ben dies0002" x="2934" y="330" width="242" height="329"/>
+	<SubTexture name="Ben dies0003" x="2934" y="330" width="242" height="329"/>
+	<SubTexture name="Ben dies0004" x="3176" y="330" width="242" height="329"/>
+	<SubTexture name="Ben dies0005" x="3176" y="330" width="242" height="329"/>
+	<SubTexture name="Ben dies0006" x="3176" y="330" width="242" height="329"/>
+	<SubTexture name="Ben dies0007" x="3176" y="330" width="242" height="329"/>
+	<SubTexture name="Ben dies0008" x="3176" y="330" width="242" height="329"/>
+	<SubTexture name="Ben dies0009" x="3176" y="330" width="242" height="329"/>
+	<SubTexture name="Ben dies0010" x="3176" y="330" width="242" height="329"/>
+	<SubTexture name="Ben dies0011" x="3176" y="330" width="242" height="329"/>
+	<SubTexture name="Ben dies0012" x="3176" y="330" width="242" height="329"/>
+	<SubTexture name="Ben dies0013" x="3176" y="330" width="242" height="329"/>
+	<SubTexture name="Ben dies0014" x="3176" y="330" width="242" height="329"/>
+	<SubTexture name="Ben dies0015" x="3176" y="330" width="242" height="329"/>
+	<SubTexture name="Ben dies0016" x="3176" y="330" width="242" height="329"/>
+	<SubTexture name="Ben dies0017" x="3176" y="330" width="242" height="329"/>
+	<SubTexture name="Ben dies0018" x="3176" y="330" width="242" height="329"/>
+	<SubTexture name="Ben dies0019" x="3176" y="330" width="242" height="329"/>
+	<SubTexture name="Ben dies0020" x="3176" y="330" width="242" height="329"/>
+	<SubTexture name="Ben dies0021" x="3176" y="330" width="242" height="329"/>
+	<SubTexture name="Ben dies0022" x="3176" y="330" width="242" height="329"/>
+	<SubTexture name="Ben dies0023" x="3176" y="330" width="242" height="329"/>
+	<SubTexture name="Ben dies0024" x="3176" y="330" width="242" height="329"/>
+	<SubTexture name="Ben dies0025" x="3176" y="330" width="242" height="329"/>
+	<SubTexture name="Ben dies0026" x="3176" y="330" width="242" height="329"/>
+	<SubTexture name="Ben dies0027" x="3176" y="330" width="242" height="329"/>
+	<SubTexture name="Ben dies0028" x="3176" y="330" width="242" height="329"/>
+	<SubTexture name="Ben dies0029" x="3176" y="330" width="242" height="329"/>
+	<SubTexture name="Ben dies0030" x="3176" y="330" width="242" height="329"/>
+	<SubTexture name="Ben dies0031" x="3176" y="330" width="242" height="329"/>
+	<SubTexture name="Ben dies0032" x="3176" y="330" width="242" height="329"/>
+	<SubTexture name="Ben dies0033" x="3176" y="330" width="242" height="329"/>
+	<SubTexture name="Ben dies0034" x="3176" y="330" width="242" height="329"/>
+	<SubTexture name="Ben dies0035" x="3418" y="330" width="242" height="329"/>
+	<SubTexture name="Ben dies0036" x="3660" y="330" width="242" height="329"/>
+	<SubTexture name="Ben dies0037" x="0" y="659" width="242" height="329"/>
+	<SubTexture name="Ben dies0038" x="242" y="659" width="242" height="329"/>
+	<SubTexture name="Ben dies0039" x="484" y="659" width="242" height="329"/>
+	<SubTexture name="Ben dies0040" x="726" y="659" width="242" height="329"/>
+	<SubTexture name="Ben dies0041" x="968" y="659" width="242" height="329"/>
+	<SubTexture name="Ben dies0042" x="1210" y="659" width="242" height="329"/>
+	<SubTexture name="Ben dies0043" x="1452" y="659" width="242" height="329"/>
+	<SubTexture name="Ben dies0044" x="1694" y="659" width="242" height="329"/>
+	<SubTexture name="Ben dies0045" x="1936" y="659" width="242" height="329"/>
+	<SubTexture name="Ben dies0046" x="2178" y="659" width="242" height="329"/>
+	<SubTexture name="Ben dies0047" x="2420" y="659" width="242" height="329"/>
+	<SubTexture name="Ben dies0048" x="2662" y="659" width="242" height="329"/>
+	<SubTexture name="Ben dies0049" x="2904" y="659" width="242" height="329"/>
+	<SubTexture name="Ben dies0050" x="3146" y="659" width="242" height="329"/>
+	<SubTexture name="Ben dies0051" x="3388" y="659" width="242" height="329"/>
+	<SubTexture name="Ben dies0052" x="3630" y="659" width="242" height="329"/>
+	<SubTexture name="Ben dies0053" x="0" y="988" width="242" height="329"/>
+	<SubTexture name="Ben dies0054" x="0" y="988" width="242" height="329"/>
+	<SubTexture name="Ben dies0055" x="0" y="988" width="242" height="329"/>
+	<SubTexture name="Ben dies0056" x="0" y="988" width="242" height="329"/>
+	<SubTexture name="Ben dies0057" x="0" y="988" width="242" height="329"/>
+</TextureAtlas>

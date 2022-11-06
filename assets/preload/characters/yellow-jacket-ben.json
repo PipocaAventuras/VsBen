@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "ben idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				28,
+				-7
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "ben right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				50,
+				-23
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "ben down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				37,
+				-11
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "ben up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				44,
+				0
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "ben left",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "Week-Woody/yellow_jacket_ben",
+	"position": [
+		0,
+		250
+	],
+	"healthicon": "ben",
+	"flip_x": false,
+	"healthbar_colors": [
+		51,
+		204,
+		255
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 6.1,
+	"scale": 1.1
+}

@@ -1,0 +1,49 @@
+{
+	"song": {
+		"speed": 2.7,
+		"stage": "void",
+		"player1": "ben-player",
+		"player2": "duolingo",
+		"player3": null,
+		"events": [
+			[
+				67998.9583333333,
+				[
+					[
+						"Change Character",
+						"gf",
+						"speaker"
+					]
+				]
+			],
+			[
+				67999.21875,
+				[
+					[
+						"Change Character",
+						"dad",
+						"duo"
+					]
+				]
+			],
+			[
+				68000,
+				[
+					[
+						"Change Character",
+						"bf",
+						"ben-w-estevam"
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": "noteSplashes",
+		"validScore": false,
+		"gfVersion": "estevam_gf",
+		"bpm": 120,
+		"arrowSkin": "",
+		"needsVoices": true,
+		"song": "Lesson"
+	}
+}

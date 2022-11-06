@@ -1,0 +1,100 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "estevam idle"
+		},
+		{
+			"offsets": [
+				13,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "estevam left"
+		},
+		{
+			"offsets": [
+				-7,
+				-3
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "estevam down"
+		},
+		{
+			"offsets": [
+				2,
+				2
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "estevam up"
+		},
+		{
+			"offsets": [
+				-10,
+				1
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "estevam right"
+		},
+		{
+			"offsets": [
+				0,
+				1
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "ring",
+			"indices": [],
+			"name": "estevam ring ring animacao"
+		},
+		{
+			"offsets": [
+				20,
+				43
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "attack",
+			"indices": [],
+			"name": "estevam at"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "extra/shark_escape_estevam",
+	"position": [
+		390,
+		370
+	],
+	"healthicon": "ben-estevam",
+	"flip_x": false,
+	"healthbar_colors": [
+		224,
+		161,
+		101
+	],
+	"camera_position": [
+		-380,
+		-310
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

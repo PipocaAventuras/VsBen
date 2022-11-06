@@ -1,0 +1,122 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				20,
+				-7
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "ben and estevam thinged down ben0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-23,
+				4
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "ben and estevam thinged up ben0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				22,
+				-6
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "ben and estevam thinged left ben0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-12,
+				3
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "ben and estevam thinged right ben0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				20,
+				-7
+			],
+			"anim": "singDOWN-alt",
+			"fps": 24,
+			"name": "ben and estevam thinged down estevam0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-23,
+				4
+			],
+			"anim": "singUP-alt",
+			"fps": 24,
+			"name": "ben and estevam thinged up estevam0",
+			"indices": []
+		},
+		{
+			"offsets": [
+				15,
+				-5
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT-alt",
+			"indices": [],
+			"name": "ben and estevam thinged left estevam0"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "ben and estevam thinged000"
+		},
+		{
+			"offsets": [
+				-18,
+				4
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT-alt",
+			"indices": [],
+			"name": "ben and estevam thinged right estevam0"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "extra/ben-w-estevam",
+	"position": [
+		-460,
+		200
+	],
+	"healthicon": "ben-estevam",
+	"flip_x": true,
+	"healthbar_colors": [
+		224,
+		161,
+		101
+	],
+	"camera_position": [
+		-90,
+		0
+	],
+	"sing_duration": 6.1,
+	"scale": 1.1
+}

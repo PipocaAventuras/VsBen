@@ -1,0 +1,59 @@
+{
+	"song": {
+		"speed": 2.8,
+		"stage": "restaurant-noben",
+		"player1": "bf",
+		"player2": "estevam",
+		"player3": null,
+		"events": [
+			[
+				133333.333333333,
+				[
+					[
+						"Play Animation",
+						"micTransition",
+						"dad"
+					]
+				]
+			],
+			[
+				134404.761904762,
+				[
+					[
+						"Play Animation",
+						"micTransition",
+						"gf"
+					]
+				]
+			],
+			[
+				135232.142857143,
+				[
+					[
+						"Change Character",
+						"dad",
+						"ben"
+					]
+				]
+			],
+			[
+				135238.095238095,
+				[
+					[
+						"Change Character",
+						"gf",
+						"gf-estevam"
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": null,
+		"validScore": false,
+		"gfVersion": "gf-ben",
+		"bpm": 126,
+		"arrowSkin": null,
+		"needsVoices": true,
+		"song": "Detained"
+	}
+}

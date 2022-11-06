@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="BEN_Dialogue.png">
+	<!-- Created with Adobe Animate version 20.5.1.31044 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="ben angry loop0000" x="0" y="0" width="373" height="493" frameX="0" frameY="-14" frameWidth="383" frameHeight="508"/>
+	<SubTexture name="ben angry loop0001" x="0" y="0" width="373" height="493" frameX="0" frameY="-14" frameWidth="383" frameHeight="508"/>
+	<SubTexture name="ben angry loop0002" x="373" y="0" width="366" height="496" frameX="-17" frameY="-12" frameWidth="383" frameHeight="508"/>
+	<SubTexture name="ben angry loop0003" x="373" y="0" width="366" height="496" frameX="-17" frameY="-12" frameWidth="383" frameHeight="508"/>
+	<SubTexture name="ben angry loop0004" x="739" y="0" width="339" height="508" frameX="-30" frameY="0" frameWidth="383" frameHeight="508"/>
+	<SubTexture name="ben angry loop0005" x="739" y="0" width="339" height="508" frameX="-30" frameY="0" frameWidth="383" frameHeight="508"/>
+	<SubTexture name="ben confused loop0000" x="1078" y="0" width="373" height="493" frameX="0" frameY="-14" frameWidth="383" frameHeight="508"/>
+	<SubTexture name="ben confused loop0001" x="1078" y="0" width="373" height="493" frameX="0" frameY="-14" frameWidth="383" frameHeight="508"/>
+	<SubTexture name="ben confused loop0002" x="1451" y="0" width="366" height="496" frameX="-17" frameY="-12" frameWidth="383" frameHeight="508"/>
+	<SubTexture name="ben confused loop0003" x="1451" y="0" width="366" height="496" frameX="-17" frameY="-12" frameWidth="383" frameHeight="508"/>
+	<SubTexture name="ben confused loop0004" x="0" y="508" width="339" height="508" frameX="-30" frameY="0" frameWidth="383" frameHeight="508"/>
+	<SubTexture name="ben confused loop0005" x="0" y="508" width="339" height="508" frameX="-30" frameY="0" frameWidth="383" frameHeight="508"/>
+	<SubTexture name="ben excited loop0000" x="339" y="508" width="373" height="493" frameX="0" frameY="-14" frameWidth="383" frameHeight="508"/>
+	<SubTexture name="ben excited loop0001" x="339" y="508" width="373" height="493" frameX="0" frameY="-14" frameWidth="383" frameHeight="508"/>
+	<SubTexture name="ben excited loop0002" x="712" y="508" width="366" height="496" frameX="-17" frameY="-12" frameWidth="383" frameHeight="508"/>
+	<SubTexture name="ben excited loop0003" x="712" y="508" width="366" height="496" frameX="-17" frameY="-12" frameWidth="383" frameHeight="508"/>
+	<SubTexture name="ben excited loop0004" x="1078" y="508" width="339" height="508" frameX="-30" frameY="0" frameWidth="383" frameHeight="508"/>
+	<SubTexture name="ben excited loop0005" x="1078" y="508" width="339" height="508" frameX="-30" frameY="0" frameWidth="383" frameHeight="508"/>
+	<SubTexture name="ben loop0000" x="1417" y="508" width="371" height="493" frameX="0" frameY="-15" frameWidth="382" frameHeight="508"/>
+	<SubTexture name="ben loop0001" x="1417" y="508" width="371" height="493" frameX="0" frameY="-15" frameWidth="382" frameHeight="508"/>
+	<SubTexture name="ben loop0002" x="0" y="1016" width="366" height="496" frameX="-16" frameY="-12" frameWidth="382" frameHeight="508"/>
+	<SubTexture name="ben loop0003" x="0" y="1016" width="366" height="496" frameX="-16" frameY="-12" frameWidth="382" frameHeight="508"/>
+	<SubTexture name="ben loop0004" x="366" y="1016" width="339" height="508" frameX="-30" frameY="0" frameWidth="382" frameHeight="508"/>
+	<SubTexture name="ben loop0005" x="366" y="1016" width="339" height="508" frameX="-30" frameY="0" frameWidth="382" frameHeight="508"/>
+	<SubTexture name="ben shock loop0000" x="705" y="1016" width="373" height="493" frameX="0" frameY="-14" frameWidth="383" frameHeight="508"/>
+	<SubTexture name="ben shock loop0001" x="1078" y="1016" width="373" height="493" frameX="0" frameY="-14" frameWidth="383" frameHeight="508"/>
+	<SubTexture name="ben shock loop0002" x="1451" y="1016" width="366" height="496" frameX="-17" frameY="-12" frameWidth="383" frameHeight="508"/>
+	<SubTexture name="ben shock loop0003" x="0" y="1524" width="366" height="496" frameX="-17" frameY="-12" frameWidth="383" frameHeight="508"/>
+	<SubTexture name="ben shock loop0004" x="366" y="1524" width="339" height="508" frameX="-30" frameY="0" frameWidth="383" frameHeight="508"/>
+	<SubTexture name="ben shock loop0005" x="705" y="1524" width="339" height="508" frameX="-30" frameY="0" frameWidth="383" frameHeight="508"/>
+</TextureAtlas>

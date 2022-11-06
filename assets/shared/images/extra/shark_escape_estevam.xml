@@ -1,0 +1,99 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="shark_escape_estevam.png">
+	<!-- Created with Adobe Animate version 20.5.1.31044 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="estevam atirar animacao0000" x="0" y="0" width="735" height="215" frameX="-7" frameY="0" frameWidth="742" frameHeight="215"/>
+	<SubTexture name="estevam atirar animacao0001" x="735" y="0" width="675" height="181" frameX="-7" frameY="-22" frameWidth="742" frameHeight="215"/>
+	<SubTexture name="estevam atirar animacao0002" x="0" y="215" width="642" height="177" frameX="-1" frameY="-26" frameWidth="742" frameHeight="215"/>
+	<SubTexture name="estevam atirar animacao0003" x="642" y="215" width="135" height="177" frameX="-1" frameY="-26" frameWidth="742" frameHeight="215"/>
+	<SubTexture name="estevam atirar animacao0004" x="777" y="215" width="131" height="175" frameX="0" frameY="-27" frameWidth="742" frameHeight="215"/>
+	<SubTexture name="estevam atirar animacao0005" x="777" y="215" width="131" height="175" frameX="0" frameY="-27" frameWidth="742" frameHeight="215"/>
+	<SubTexture name="estevam atirar animacao0006" x="777" y="215" width="131" height="175" frameX="0" frameY="-27" frameWidth="742" frameHeight="215"/>
+	<SubTexture name="estevam atirar animacao0007" x="777" y="215" width="131" height="175" frameX="0" frameY="-27" frameWidth="742" frameHeight="215"/>
+	<SubTexture name="estevam atirar animacao0008" x="777" y="215" width="131" height="175" frameX="0" frameY="-27" frameWidth="742" frameHeight="215"/>
+	<SubTexture name="estevam atirar animacao0009" x="777" y="215" width="131" height="175" frameX="0" frameY="-27" frameWidth="742" frameHeight="215"/>
+	<SubTexture name="estevam atirar animacao0010" x="777" y="215" width="131" height="175" frameX="0" frameY="-27" frameWidth="742" frameHeight="215"/>
+	<SubTexture name="estevam atirar animacao0011" x="908" y="215" width="130" height="172" frameX="-2" frameY="-30" frameWidth="742" frameHeight="215"/>
+	<SubTexture name="estevam atirar animacao0012" x="908" y="215" width="130" height="172" frameX="-2" frameY="-30" frameWidth="742" frameHeight="215"/>
+	<SubTexture name="estevam down0000" x="1038" y="215" width="157" height="155" frameX="-2" frameY="-2" frameWidth="161" frameHeight="157"/>
+	<SubTexture name="estevam down0001" x="1038" y="215" width="157" height="155" frameX="-2" frameY="-2" frameWidth="161" frameHeight="157"/>
+	<SubTexture name="estevam down0002" x="1195" y="215" width="160" height="155" frameX="0" frameY="-1" frameWidth="161" frameHeight="157"/>
+	<SubTexture name="estevam down0003" x="1195" y="215" width="160" height="155" frameX="0" frameY="-1" frameWidth="161" frameHeight="157"/>
+	<SubTexture name="estevam down0004" x="1355" y="215" width="161" height="156" frameX="0" frameY="0" frameWidth="161" frameHeight="157"/>
+	<SubTexture name="estevam down0005" x="1355" y="215" width="161" height="156" frameX="0" frameY="0" frameWidth="161" frameHeight="157"/>
+	<SubTexture name="estevam down0006" x="1355" y="215" width="161" height="156" frameX="0" frameY="0" frameWidth="161" frameHeight="157"/>
+	<SubTexture name="estevam down0007" x="1355" y="215" width="161" height="156" frameX="0" frameY="0" frameWidth="161" frameHeight="157"/>
+	<SubTexture name="estevam down0008" x="1355" y="215" width="161" height="156" frameX="0" frameY="0" frameWidth="161" frameHeight="157"/>
+	<SubTexture name="estevam down0009" x="1355" y="215" width="161" height="156" frameX="0" frameY="0" frameWidth="161" frameHeight="157"/>
+	<SubTexture name="estevam down0010" x="1355" y="215" width="161" height="156" frameX="0" frameY="0" frameWidth="161" frameHeight="157"/>
+	<SubTexture name="estevam down0011" x="1355" y="215" width="161" height="156" frameX="0" frameY="0" frameWidth="161" frameHeight="157"/>
+	<SubTexture name="estevam down0012" x="1355" y="215" width="161" height="156" frameX="0" frameY="0" frameWidth="161" frameHeight="157"/>
+	<SubTexture name="estevam down0013" x="1355" y="215" width="161" height="156" frameX="0" frameY="0" frameWidth="161" frameHeight="157"/>
+	<SubTexture name="estevam down0014" x="1355" y="215" width="161" height="156" frameX="0" frameY="0" frameWidth="161" frameHeight="157"/>
+	<SubTexture name="estevam idle0000" x="1516" y="215" width="161" height="159" frameX="-4" frameY="-1" frameWidth="167" frameHeight="160"/>
+	<SubTexture name="estevam idle0001" x="1516" y="215" width="161" height="159" frameX="-4" frameY="-1" frameWidth="167" frameHeight="160"/>
+	<SubTexture name="estevam idle0002" x="1677" y="215" width="164" height="159" frameX="-2" frameY="-1" frameWidth="167" frameHeight="160"/>
+	<SubTexture name="estevam idle0003" x="1677" y="215" width="164" height="159" frameX="-2" frameY="-1" frameWidth="167" frameHeight="160"/>
+	<SubTexture name="estevam idle0004" x="1841" y="215" width="167" height="159" frameX="0" frameY="-1" frameWidth="167" frameHeight="160"/>
+	<SubTexture name="estevam idle0005" x="1841" y="215" width="167" height="159" frameX="0" frameY="-1" frameWidth="167" frameHeight="160"/>
+	<SubTexture name="estevam idle0006" x="0" y="392" width="166" height="160" frameX="-1" frameY="0" frameWidth="167" frameHeight="160"/>
+	<SubTexture name="estevam idle0007" x="0" y="392" width="166" height="160" frameX="-1" frameY="0" frameWidth="167" frameHeight="160"/>
+	<SubTexture name="estevam idle0008" x="166" y="392" width="166" height="160" frameX="-1" frameY="0" frameWidth="167" frameHeight="160"/>
+	<SubTexture name="estevam idle0009" x="166" y="392" width="166" height="160" frameX="-1" frameY="0" frameWidth="167" frameHeight="160"/>
+	<SubTexture name="estevam idle0010" x="166" y="392" width="166" height="160" frameX="-1" frameY="0" frameWidth="167" frameHeight="160"/>
+	<SubTexture name="estevam idle0011" x="166" y="392" width="166" height="160" frameX="-1" frameY="0" frameWidth="167" frameHeight="160"/>
+	<SubTexture name="estevam idle0012" x="166" y="392" width="166" height="160" frameX="-1" frameY="0" frameWidth="167" frameHeight="160"/>
+	<SubTexture name="estevam idle0013" x="166" y="392" width="166" height="160" frameX="-1" frameY="0" frameWidth="167" frameHeight="160"/>
+	<SubTexture name="estevam left0000" x="332" y="392" width="171" height="159" frameX="0" frameY="0" frameWidth="174" frameHeight="159"/>
+	<SubTexture name="estevam left0001" x="332" y="392" width="171" height="159" frameX="0" frameY="0" frameWidth="174" frameHeight="159"/>
+	<SubTexture name="estevam left0002" x="503" y="392" width="170" height="159" frameX="-3" frameY="0" frameWidth="174" frameHeight="159"/>
+	<SubTexture name="estevam left0003" x="503" y="392" width="170" height="159" frameX="-3" frameY="0" frameWidth="174" frameHeight="159"/>
+	<SubTexture name="estevam left0004" x="673" y="392" width="167" height="159" frameX="-7" frameY="0" frameWidth="174" frameHeight="159"/>
+	<SubTexture name="estevam left0005" x="673" y="392" width="167" height="159" frameX="-7" frameY="0" frameWidth="174" frameHeight="159"/>
+	<SubTexture name="estevam left0006" x="673" y="392" width="167" height="159" frameX="-7" frameY="0" frameWidth="174" frameHeight="159"/>
+	<SubTexture name="estevam left0007" x="673" y="392" width="167" height="159" frameX="-7" frameY="0" frameWidth="174" frameHeight="159"/>
+	<SubTexture name="estevam left0008" x="673" y="392" width="167" height="159" frameX="-7" frameY="0" frameWidth="174" frameHeight="159"/>
+	<SubTexture name="estevam left0009" x="673" y="392" width="167" height="159" frameX="-7" frameY="0" frameWidth="174" frameHeight="159"/>
+	<SubTexture name="estevam left0010" x="673" y="392" width="167" height="159" frameX="-7" frameY="0" frameWidth="174" frameHeight="159"/>
+	<SubTexture name="estevam left0011" x="673" y="392" width="167" height="159" frameX="-7" frameY="0" frameWidth="174" frameHeight="159"/>
+	<SubTexture name="estevam left0012" x="673" y="392" width="167" height="159" frameX="-7" frameY="0" frameWidth="174" frameHeight="159"/>
+	<SubTexture name="estevam left0013" x="673" y="392" width="167" height="159" frameX="-7" frameY="0" frameWidth="174" frameHeight="159"/>
+	<SubTexture name="estevam left0014" x="673" y="392" width="167" height="159" frameX="-7" frameY="0" frameWidth="174" frameHeight="159"/>
+	<SubTexture name="estevam right0000" x="840" y="392" width="158" height="160" frameX="-2" frameY="0" frameWidth="160" frameHeight="160"/>
+	<SubTexture name="estevam right0001" x="840" y="392" width="158" height="160" frameX="-2" frameY="0" frameWidth="160" frameHeight="160"/>
+	<SubTexture name="estevam right0002" x="998" y="392" width="157" height="160" frameX="-2" frameY="0" frameWidth="160" frameHeight="160"/>
+	<SubTexture name="estevam right0003" x="998" y="392" width="157" height="160" frameX="-2" frameY="0" frameWidth="160" frameHeight="160"/>
+	<SubTexture name="estevam right0004" x="1155" y="392" width="159" height="160" frameX="0" frameY="0" frameWidth="160" frameHeight="160"/>
+	<SubTexture name="estevam right0005" x="1155" y="392" width="159" height="160" frameX="0" frameY="0" frameWidth="160" frameHeight="160"/>
+	<SubTexture name="estevam right0006" x="1155" y="392" width="159" height="160" frameX="0" frameY="0" frameWidth="160" frameHeight="160"/>
+	<SubTexture name="estevam right0007" x="1155" y="392" width="159" height="160" frameX="0" frameY="0" frameWidth="160" frameHeight="160"/>
+	<SubTexture name="estevam right0008" x="1155" y="392" width="159" height="160" frameX="0" frameY="0" frameWidth="160" frameHeight="160"/>
+	<SubTexture name="estevam right0009" x="1155" y="392" width="159" height="160" frameX="0" frameY="0" frameWidth="160" frameHeight="160"/>
+	<SubTexture name="estevam right0010" x="1155" y="392" width="159" height="160" frameX="0" frameY="0" frameWidth="160" frameHeight="160"/>
+	<SubTexture name="estevam right0011" x="1155" y="392" width="159" height="160" frameX="0" frameY="0" frameWidth="160" frameHeight="160"/>
+	<SubTexture name="estevam right0012" x="1155" y="392" width="159" height="160" frameX="0" frameY="0" frameWidth="160" frameHeight="160"/>
+	<SubTexture name="estevam right0013" x="1155" y="392" width="159" height="160" frameX="0" frameY="0" frameWidth="160" frameHeight="160"/>
+	<SubTexture name="estevam right0014" x="1155" y="392" width="159" height="160" frameX="0" frameY="0" frameWidth="160" frameHeight="160"/>
+	<SubTexture name="estevam ring ring animacao0000" x="1314" y="392" width="144" height="167"/>
+	<SubTexture name="estevam ring ring animacao0001" x="1314" y="392" width="144" height="167"/>
+	<SubTexture name="estevam ring ring animacao0002" x="1458" y="392" width="142" height="164" frameX="0" frameY="-1" frameWidth="144" frameHeight="167"/>
+	<SubTexture name="estevam ring ring animacao0003" x="1458" y="392" width="142" height="164" frameX="0" frameY="-1" frameWidth="144" frameHeight="167"/>
+	<SubTexture name="estevam ring ring animacao0004" x="1458" y="392" width="142" height="164" frameX="0" frameY="-1" frameWidth="144" frameHeight="167"/>
+	<SubTexture name="estevam ring ring animacao0005" x="1458" y="392" width="142" height="164" frameX="0" frameY="-1" frameWidth="144" frameHeight="167"/>
+	<SubTexture name="estevam ring ring animacao0006" x="1458" y="392" width="142" height="164" frameX="0" frameY="-1" frameWidth="144" frameHeight="167"/>
+	<SubTexture name="estevam up0000" x="1600" y="392" width="168" height="162"/>
+	<SubTexture name="estevam up0001" x="1600" y="392" width="168" height="162"/>
+	<SubTexture name="estevam up0002" x="1768" y="392" width="168" height="161" frameX="0" frameY="-1" frameWidth="168" frameHeight="162"/>
+	<SubTexture name="estevam up0003" x="1768" y="392" width="168" height="161" frameX="0" frameY="-1" frameWidth="168" frameHeight="162"/>
+	<SubTexture name="estevam up0004" x="0" y="559" width="166" height="160" frameX="-1" frameY="-2" frameWidth="168" frameHeight="162"/>
+	<SubTexture name="estevam up0005" x="0" y="559" width="166" height="160" frameX="-1" frameY="-2" frameWidth="168" frameHeight="162"/>
+	<SubTexture name="estevam up0006" x="0" y="559" width="166" height="160" frameX="-1" frameY="-2" frameWidth="168" frameHeight="162"/>
+	<SubTexture name="estevam up0007" x="0" y="559" width="166" height="160" frameX="-1" frameY="-2" frameWidth="168" frameHeight="162"/>
+	<SubTexture name="estevam up0008" x="0" y="559" width="166" height="160" frameX="-1" frameY="-2" frameWidth="168" frameHeight="162"/>
+	<SubTexture name="estevam up0009" x="0" y="559" width="166" height="160" frameX="-1" frameY="-2" frameWidth="168" frameHeight="162"/>
+	<SubTexture name="estevam up0010" x="0" y="559" width="166" height="160" frameX="-1" frameY="-2" frameWidth="168" frameHeight="162"/>
+	<SubTexture name="estevam up0011" x="0" y="559" width="166" height="160" frameX="-1" frameY="-2" frameWidth="168" frameHeight="162"/>
+	<SubTexture name="estevam up0012" x="0" y="559" width="166" height="160" frameX="-1" frameY="-2" frameWidth="168" frameHeight="162"/>
+	<SubTexture name="estevam up0013" x="0" y="559" width="166" height="160" frameX="-1" frameY="-2" frameWidth="168" frameHeight="162"/>
+	<SubTexture name="estevam up0014" x="0" y="559" width="166" height="160" frameX="-1" frameY="-2" frameWidth="168" frameHeight="162"/>
+</TextureAtlas>

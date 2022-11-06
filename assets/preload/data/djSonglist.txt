@@ -1,0 +1,20 @@
+internal,upapayuma,ben,good
+internal,woody,ben,good
+internal,roots,ben,good
+internal,rapping night,ben,good
+internal,bro,estevam,good
+internal,summed up,estevam,good
+internal,happiness,estevam,good
+internal,detained,ben-estevam,good
+internal,flushed,ben-flushed,good
+internal,older,ben-old,good
+internal,fimose,neb,good
+internal,xbox,bensides,good
+internal,like a boss,ben,good
+internal,shark escape,shark,good
+internal,talking two,talkingben,good
+internal,lesson,duolingo,good
+internal,ugh,ben,good
+internal,wheels,neb,good
+internal,apprentice,ben,good
+internal,poopers,mavetse,good

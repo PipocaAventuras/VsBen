@@ -1,0 +1,49 @@
+{
+	"song": {
+		"speed": 3.3,
+		"stage": "woody3d",
+		"player1": "bf",
+		"player2": "ben",
+		"player3": null,
+		"events": [
+			[
+				62823.5294117647,
+				[
+					[
+						"Change Character",
+						"dad",
+						"ben-3d"
+					],
+					[
+						"Change Character",
+						"bf",
+						"3d-bf"
+					]
+				]
+			],
+			[
+				132000,
+				[
+					[
+						"Change Character",
+						"dad",
+						"ben"
+					],
+					[
+						"Change Character",
+						"bf",
+						"bf"
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": "noteSplashes",
+		"validScore": false,
+		"gfVersion": "speaker",
+		"bpm": 160,
+		"arrowSkin": "",
+		"needsVoices": true,
+		"song": "Apprentice"
+	}
+}

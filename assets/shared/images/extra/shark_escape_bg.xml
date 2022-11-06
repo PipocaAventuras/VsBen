@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="shark_escape_bg.png">
+	<!-- Created with Adobe Animate version 20.5.1.31044 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="BG0000" x="0" y="0" width="6018" height="1861" frameX="0" frameY="0" frameWidth="6018" frameHeight="1866"/>
+	<SubTexture name="BG0001" x="0" y="0" width="6018" height="1861" frameX="0" frameY="0" frameWidth="6018" frameHeight="1866"/>
+	<SubTexture name="BG0002" x="0" y="1861" width="6018" height="1866"/>
+	<SubTexture name="BG0003" x="0" y="1861" width="6018" height="1866"/>
+</TextureAtlas>

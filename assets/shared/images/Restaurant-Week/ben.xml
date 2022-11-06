@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="ben.png">
+	<!-- Created with Adobe Animate version 20.5.1.31044 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Ben Fundo Idle0000" x="0" y="0" width="214" height="388" frameX="-13" frameY="-9" frameWidth="227" frameHeight="397"/>
+	<SubTexture name="Ben Fundo Idle0001" x="0" y="0" width="214" height="388" frameX="-13" frameY="-9" frameWidth="227" frameHeight="397"/>
+	<SubTexture name="Ben Fundo Idle0002" x="214" y="0" width="212" height="396" frameX="-5" frameY="-1" frameWidth="227" frameHeight="397"/>
+	<SubTexture name="Ben Fundo Idle0003" x="214" y="0" width="212" height="396" frameX="-5" frameY="-1" frameWidth="227" frameHeight="397"/>
+	<SubTexture name="Ben Fundo Idle0004" x="426" y="0" width="211" height="397" frameX="-2" frameY="0" frameWidth="227" frameHeight="397"/>
+	<SubTexture name="Ben Fundo Idle0005" x="426" y="0" width="211" height="397" frameX="-2" frameY="0" frameWidth="227" frameHeight="397"/>
+	<SubTexture name="Ben Fundo Idle0006" x="637" y="0" width="212" height="396" frameX="0" frameY="-1" frameWidth="227" frameHeight="397"/>
+	<SubTexture name="Ben Fundo Idle0007" x="637" y="0" width="212" height="396" frameX="0" frameY="-1" frameWidth="227" frameHeight="397"/>
+	<SubTexture name="Ben Fundo Idle0008" x="637" y="0" width="212" height="396" frameX="0" frameY="-1" frameWidth="227" frameHeight="397"/>
+	<SubTexture name="Ben Fundo Idle0009" x="637" y="0" width="212" height="396" frameX="0" frameY="-1" frameWidth="227" frameHeight="397"/>
+	<SubTexture name="Ben Fundo Idle0010" x="637" y="0" width="212" height="396" frameX="0" frameY="-1" frameWidth="227" frameHeight="397"/>
+	<SubTexture name="Ben Fundo Idle0011" x="637" y="0" width="212" height="396" frameX="0" frameY="-1" frameWidth="227" frameHeight="397"/>
+	<SubTexture name="Ben Fundo Idle0012" x="637" y="0" width="212" height="396" frameX="0" frameY="-1" frameWidth="227" frameHeight="397"/>
+	<SubTexture name="Ben Fundo Idle0013" x="637" y="0" width="212" height="396" frameX="0" frameY="-1" frameWidth="227" frameHeight="397"/>
+</TextureAtlas>

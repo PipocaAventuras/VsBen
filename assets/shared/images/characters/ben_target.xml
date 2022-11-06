@@ -1,0 +1,79 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="ben_target.png">
+	<!-- Created with Adobe Animate version 20.5.1.31044 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="ben down0000" x="0" y="0" width="418" height="454" frameX="-1" frameY="-9" frameWidth="423" frameHeight="463"/>
+	<SubTexture name="ben down0001" x="0" y="0" width="418" height="454" frameX="-1" frameY="-9" frameWidth="423" frameHeight="463"/>
+	<SubTexture name="ben down0002" x="418" y="0" width="420" height="459" frameX="-1" frameY="-4" frameWidth="423" frameHeight="463"/>
+	<SubTexture name="ben down0003" x="418" y="0" width="420" height="459" frameX="-1" frameY="-4" frameWidth="423" frameHeight="463"/>
+	<SubTexture name="ben down0004" x="838" y="0" width="423" height="463"/>
+	<SubTexture name="ben down0005" x="838" y="0" width="423" height="463"/>
+	<SubTexture name="ben down0006" x="838" y="0" width="423" height="463"/>
+	<SubTexture name="ben down0007" x="838" y="0" width="423" height="463"/>
+	<SubTexture name="ben down0008" x="838" y="0" width="423" height="463"/>
+	<SubTexture name="ben down0009" x="838" y="0" width="423" height="463"/>
+	<SubTexture name="ben down0010" x="838" y="0" width="423" height="463"/>
+	<SubTexture name="ben down0011" x="838" y="0" width="423" height="463"/>
+	<SubTexture name="ben down0012" x="838" y="0" width="423" height="463"/>
+	<SubTexture name="ben down0013" x="838" y="0" width="423" height="463"/>
+	<SubTexture name="ben down0014" x="838" y="0" width="423" height="463"/>
+	<SubTexture name="ben idle0000" x="1261" y="0" width="343" height="472" frameX="0" frameY="-12" frameWidth="343" frameHeight="484"/>
+	<SubTexture name="ben idle0001" x="1261" y="0" width="343" height="472" frameX="0" frameY="-12" frameWidth="343" frameHeight="484"/>
+	<SubTexture name="ben idle0002" x="1604" y="0" width="336" height="474" frameX="-5" frameY="-10" frameWidth="343" frameHeight="484"/>
+	<SubTexture name="ben idle0003" x="1604" y="0" width="336" height="474" frameX="-5" frameY="-10" frameWidth="343" frameHeight="484"/>
+	<SubTexture name="ben idle0004" x="0" y="474" width="328" height="482" frameX="-9" frameY="-2" frameWidth="343" frameHeight="484"/>
+	<SubTexture name="ben idle0005" x="0" y="474" width="328" height="482" frameX="-9" frameY="-2" frameWidth="343" frameHeight="484"/>
+	<SubTexture name="ben idle0006" x="328" y="474" width="328" height="484" frameX="-6" frameY="0" frameWidth="343" frameHeight="484"/>
+	<SubTexture name="ben idle0007" x="328" y="474" width="328" height="484" frameX="-6" frameY="0" frameWidth="343" frameHeight="484"/>
+	<SubTexture name="ben idle0008" x="656" y="474" width="331" height="481" frameX="-2" frameY="-3" frameWidth="343" frameHeight="484"/>
+	<SubTexture name="ben idle0009" x="656" y="474" width="331" height="481" frameX="-2" frameY="-3" frameWidth="343" frameHeight="484"/>
+	<SubTexture name="ben idle0010" x="656" y="474" width="331" height="481" frameX="-2" frameY="-3" frameWidth="343" frameHeight="484"/>
+	<SubTexture name="ben idle0011" x="656" y="474" width="331" height="481" frameX="-2" frameY="-3" frameWidth="343" frameHeight="484"/>
+	<SubTexture name="ben idle0012" x="656" y="474" width="331" height="481" frameX="-2" frameY="-3" frameWidth="343" frameHeight="484"/>
+	<SubTexture name="ben idle0013" x="656" y="474" width="331" height="481" frameX="-2" frameY="-3" frameWidth="343" frameHeight="484"/>
+	<SubTexture name="ben left0000" x="987" y="474" width="422" height="484" frameX="-1" frameY="0" frameWidth="423" frameHeight="484"/>
+	<SubTexture name="ben left0001" x="987" y="474" width="422" height="484" frameX="-1" frameY="0" frameWidth="423" frameHeight="484"/>
+	<SubTexture name="ben left0002" x="1409" y="474" width="414" height="482" frameX="0" frameY="-2" frameWidth="423" frameHeight="484"/>
+	<SubTexture name="ben left0003" x="1409" y="474" width="414" height="482" frameX="0" frameY="-2" frameWidth="423" frameHeight="484"/>
+	<SubTexture name="ben left0004" x="0" y="958" width="409" height="482" frameX="-5" frameY="-2" frameWidth="423" frameHeight="484"/>
+	<SubTexture name="ben left0005" x="0" y="958" width="409" height="482" frameX="-5" frameY="-2" frameWidth="423" frameHeight="484"/>
+	<SubTexture name="ben left0006" x="0" y="958" width="409" height="482" frameX="-5" frameY="-2" frameWidth="423" frameHeight="484"/>
+	<SubTexture name="ben left0007" x="0" y="958" width="409" height="482" frameX="-5" frameY="-2" frameWidth="423" frameHeight="484"/>
+	<SubTexture name="ben left0008" x="0" y="958" width="409" height="482" frameX="-5" frameY="-2" frameWidth="423" frameHeight="484"/>
+	<SubTexture name="ben left0009" x="0" y="958" width="409" height="482" frameX="-5" frameY="-2" frameWidth="423" frameHeight="484"/>
+	<SubTexture name="ben left0010" x="0" y="958" width="409" height="482" frameX="-5" frameY="-2" frameWidth="423" frameHeight="484"/>
+	<SubTexture name="ben left0011" x="0" y="958" width="409" height="482" frameX="-5" frameY="-2" frameWidth="423" frameHeight="484"/>
+	<SubTexture name="ben left0012" x="0" y="958" width="409" height="482" frameX="-5" frameY="-2" frameWidth="423" frameHeight="484"/>
+	<SubTexture name="ben left0013" x="0" y="958" width="409" height="482" frameX="-5" frameY="-2" frameWidth="423" frameHeight="484"/>
+	<SubTexture name="ben left0014" x="0" y="958" width="409" height="482" frameX="-5" frameY="-2" frameWidth="423" frameHeight="484"/>
+	<SubTexture name="ben right0000" x="409" y="958" width="355" height="478" frameX="0" frameY="0" frameWidth="356" frameHeight="478"/>
+	<SubTexture name="ben right0001" x="409" y="958" width="355" height="478" frameX="0" frameY="0" frameWidth="356" frameHeight="478"/>
+	<SubTexture name="ben right0002" x="764" y="958" width="351" height="475" frameX="-5" frameY="-3" frameWidth="356" frameHeight="478"/>
+	<SubTexture name="ben right0003" x="764" y="958" width="351" height="475" frameX="-5" frameY="-3" frameWidth="356" frameHeight="478"/>
+	<SubTexture name="ben right0004" x="1115" y="958" width="343" height="476" frameX="-10" frameY="-2" frameWidth="356" frameHeight="478"/>
+	<SubTexture name="ben right0005" x="1115" y="958" width="343" height="476" frameX="-10" frameY="-2" frameWidth="356" frameHeight="478"/>
+	<SubTexture name="ben right0006" x="1115" y="958" width="343" height="476" frameX="-10" frameY="-2" frameWidth="356" frameHeight="478"/>
+	<SubTexture name="ben right0007" x="1115" y="958" width="343" height="476" frameX="-10" frameY="-2" frameWidth="356" frameHeight="478"/>
+	<SubTexture name="ben right0008" x="1115" y="958" width="343" height="476" frameX="-10" frameY="-2" frameWidth="356" frameHeight="478"/>
+	<SubTexture name="ben right0009" x="1115" y="958" width="343" height="476" frameX="-10" frameY="-2" frameWidth="356" frameHeight="478"/>
+	<SubTexture name="ben right0010" x="1115" y="958" width="343" height="476" frameX="-10" frameY="-2" frameWidth="356" frameHeight="478"/>
+	<SubTexture name="ben right0011" x="1115" y="958" width="343" height="476" frameX="-10" frameY="-2" frameWidth="356" frameHeight="478"/>
+	<SubTexture name="ben right0012" x="1115" y="958" width="343" height="476" frameX="-10" frameY="-2" frameWidth="356" frameHeight="478"/>
+	<SubTexture name="ben right0013" x="1115" y="958" width="343" height="476" frameX="-10" frameY="-2" frameWidth="356" frameHeight="478"/>
+	<SubTexture name="ben right0014" x="1115" y="958" width="343" height="476" frameX="-10" frameY="-2" frameWidth="356" frameHeight="478"/>
+	<SubTexture name="ben up0000" x="1458" y="958" width="380" height="475"/>
+	<SubTexture name="ben up0001" x="1458" y="958" width="380" height="475"/>
+	<SubTexture name="ben up0002" x="0" y="1440" width="370" height="471" frameX="-5" frameY="-4" frameWidth="380" frameHeight="475"/>
+	<SubTexture name="ben up0003" x="0" y="1440" width="370" height="471" frameX="-5" frameY="-4" frameWidth="380" frameHeight="475"/>
+	<SubTexture name="ben up0004" x="370" y="1440" width="367" height="467" frameX="-8" frameY="-8" frameWidth="380" frameHeight="475"/>
+	<SubTexture name="ben up0005" x="370" y="1440" width="367" height="467" frameX="-8" frameY="-8" frameWidth="380" frameHeight="475"/>
+	<SubTexture name="ben up0006" x="370" y="1440" width="367" height="467" frameX="-8" frameY="-8" frameWidth="380" frameHeight="475"/>
+	<SubTexture name="ben up0007" x="370" y="1440" width="367" height="467" frameX="-8" frameY="-8" frameWidth="380" frameHeight="475"/>
+	<SubTexture name="ben up0008" x="370" y="1440" width="367" height="467" frameX="-8" frameY="-8" frameWidth="380" frameHeight="475"/>
+	<SubTexture name="ben up0009" x="370" y="1440" width="367" height="467" frameX="-8" frameY="-8" frameWidth="380" frameHeight="475"/>
+	<SubTexture name="ben up0010" x="370" y="1440" width="367" height="467" frameX="-8" frameY="-8" frameWidth="380" frameHeight="475"/>
+	<SubTexture name="ben up0011" x="370" y="1440" width="367" height="467" frameX="-8" frameY="-8" frameWidth="380" frameHeight="475"/>
+	<SubTexture name="ben up0012" x="370" y="1440" width="367" height="467" frameX="-8" frameY="-8" frameWidth="380" frameHeight="475"/>
+	<SubTexture name="ben up0013" x="370" y="1440" width="367" height="467" frameX="-8" frameY="-8" frameWidth="380" frameHeight="475"/>
+	<SubTexture name="ben up0014" x="370" y="1440" width="367" height="467" frameX="-8" frameY="-8" frameWidth="380" frameHeight="475"/>
+</TextureAtlas>

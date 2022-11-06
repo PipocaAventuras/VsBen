@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="dance.png">
+	<!-- Created with Adobe Animate version 20.5.1.31044 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="pipoca e estevam dance0000" x="0" y="0" width="1676" height="345" frameX="0" frameY="-47" frameWidth="1676" frameHeight="412"/>
+	<SubTexture name="pipoca e estevam dance0001" x="0" y="345" width="1676" height="345" frameX="0" frameY="-40" frameWidth="1676" frameHeight="412"/>
+	<SubTexture name="pipoca e estevam dance0002" x="0" y="690" width="1676" height="396" frameX="0" frameY="-12" frameWidth="1676" frameHeight="412"/>
+	<SubTexture name="pipoca e estevam dance0003" x="0" y="690" width="1676" height="396" frameX="0" frameY="-12" frameWidth="1676" frameHeight="412"/>
+	<SubTexture name="pipoca e estevam dance0004" x="0" y="1086" width="1676" height="412"/>
+	<SubTexture name="pipoca e estevam dance0005" x="0" y="1498" width="1676" height="374" frameX="0" frameY="-20" frameWidth="1676" frameHeight="412"/>
+	<SubTexture name="pipoca e estevam dance0006" x="0" y="1498" width="1676" height="374" frameX="0" frameY="-20" frameWidth="1676" frameHeight="412"/>
+	<SubTexture name="pipoca e estevam dance0007" x="0" y="1498" width="1676" height="374" frameX="0" frameY="-20" frameWidth="1676" frameHeight="412"/>
+	<SubTexture name="pipoca e estevam dance0008" x="0" y="1498" width="1676" height="374" frameX="0" frameY="-20" frameWidth="1676" frameHeight="412"/>
+	<SubTexture name="pipoca e estevam dance0009" x="0" y="1498" width="1676" height="374" frameX="0" frameY="-20" frameWidth="1676" frameHeight="412"/>
+	<SubTexture name="pipoca e estevam dance0010" x="0" y="1498" width="1676" height="374" frameX="0" frameY="-20" frameWidth="1676" frameHeight="412"/>
+	<SubTexture name="pipoca e estevam dance0011" x="0" y="1498" width="1676" height="374" frameX="0" frameY="-20" frameWidth="1676" frameHeight="412"/>
+	<SubTexture name="pipoca e estevam dance0012" x="0" y="1498" width="1676" height="374" frameX="0" frameY="-20" frameWidth="1676" frameHeight="412"/>
+	<SubTexture name="pipoca e estevam dance0013" x="0" y="1498" width="1676" height="374" frameX="0" frameY="-20" frameWidth="1676" frameHeight="412"/>
+	<SubTexture name="pipoca e estevam dance0014" x="0" y="1498" width="1676" height="374" frameX="0" frameY="-20" frameWidth="1676" frameHeight="412"/>
+	<SubTexture name="pipoca e estevam dance0015" x="0" y="1498" width="1676" height="374" frameX="0" frameY="-20" frameWidth="1676" frameHeight="412"/>
+	<SubTexture name="pipoca e estevam dance0016" x="0" y="1498" width="1676" height="374" frameX="0" frameY="-20" frameWidth="1676" frameHeight="412"/>
+	<SubTexture name="pipoca e estevam dance0017" x="0" y="1498" width="1676" height="374" frameX="0" frameY="-20" frameWidth="1676" frameHeight="412"/>
+	<SubTexture name="pipoca e estevam dance0018" x="0" y="1498" width="1676" height="374" frameX="0" frameY="-20" frameWidth="1676" frameHeight="412"/>
+	<SubTexture name="pipoca e estevam dance0019" x="0" y="1498" width="1676" height="374" frameX="0" frameY="-20" frameWidth="1676" frameHeight="412"/>
+</TextureAtlas>

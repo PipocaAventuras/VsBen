@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "Shark Idle"
+		},
+		{
+			"offsets": [
+				17,
+				10
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Left"
+		},
+		{
+			"offsets": [
+				0,
+				27
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Shark Right"
+		},
+		{
+			"offsets": [
+				0,
+				70
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Down Shark"
+		},
+		{
+			"offsets": [
+				-36,
+				250
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Up Shark"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "oof",
+			"indices": [],
+			"name": "Shark Oof"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "extra/shark",
+	"position": [
+		0,
+		270
+	],
+	"healthicon": "shark",
+	"flip_x": false,
+	"healthbar_colors": [
+		65,
+		65,
+		65
+	],
+	"camera_position": [
+		-320,
+		-300
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

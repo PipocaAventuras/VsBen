@@ -1,0 +1,79 @@
+{
+	"song": {
+		"speed": 3,
+		"stage": "hospital",
+		"player1": "bf-fimose",
+		"player2": "neb",
+		"player3": null,
+		"events": [
+			[
+				38100,
+				[
+					[
+						"Lyrics",
+						"FIMOSE!!!!!!!!!!!!",
+						"1"
+					]
+				]
+			],
+			[
+				78900,
+				[
+					[
+						"Lyrics",
+						"FIMOSE!!!!!!!!",
+						"1"
+					]
+				]
+			],
+			[
+				81300,
+				[
+					[
+						"camerazoom",
+						"3",
+						"5"
+					]
+				]
+			],
+			[
+				81600,
+				[
+					[
+						"camerazoom",
+						"0",
+						"0"
+					]
+				]
+			],
+			[
+				100500,
+				[
+					[
+						"Lyrics",
+						"FIMOSE!!!!!!!!!!!",
+						"1"
+					]
+				]
+			],
+			[
+				125700,
+				[
+					[
+						"Lyrics",
+						"FIMOSE!!!!!!!!!!!!!!!!",
+						"1"
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": "noteSplashes",
+		"validScore": false,
+		"gfVersion": "mavetse",
+		"bpm": 200,
+		"arrowSkin": "",
+		"needsVoices": true,
+		"song": "Fimose"
+	}
+}

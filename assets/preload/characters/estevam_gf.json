@@ -1,0 +1,45 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-30,
+				13
+			],
+			"anim": "danceLeft",
+			"fps": 24,
+			"name": "estevam idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-30,
+				12
+			],
+			"anim": "danceRight",
+			"fps": 24,
+			"name": "estevam idle",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "extra/estevam_gf",
+	"position": [
+		100,
+		190
+	],
+	"healthicon": "estevam",
+	"flip_x": false,
+	"healthbar_colors": [
+		224,
+		161,
+		101
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 1
+}
