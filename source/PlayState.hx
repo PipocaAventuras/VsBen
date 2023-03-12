@@ -2754,6 +2754,19 @@ class PlayState extends MusicBeatState
 				var value:Int = Std.parseInt(value1);
 				if(Math.isNaN(value) || value < 1) value = 1;
 				gfSpeed = value;
+			
+			case 'HUD Fade':
+					var charType:Int = Std.parseInt(value1);
+					if (Math.isNaN(charType))
+						charType = 0;
+
+					switch (charType)
+					{
+						case 0:
+							FlxTween.tween(camHUD, {alpha: 1}, 0.7, {ease: FlxEase.quadInOut});
+						case 1:
+							FlxTween.tween(camHUD, {alpha: 0}, 0.7, {ease: FlxEase.quadInOut});
+					}
 
 			case 'Blammed Lights':
 				var lightId:Int = Std.parseInt(value1);

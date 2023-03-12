@@ -1,5 +1,6 @@
 package;
 
+import openfl.text.TextFormat;
 import flixel.graphics.FlxGraphic;
 import flixel.FlxG;
 import flixel.FlxGame;
@@ -79,6 +80,8 @@ class Main extends Sprite
 
 		#if !mobile
 		fpsVar = new FPS(10, 3, 0xFFFFFF);
+		var fpsFormat = new TextFormat("PhantomMuff 1.5", 15, 0xFFFFFF, true);
+		fpsVar.defaultTextFormat = fpsFormat;
 		addChild(fpsVar);
 		Lib.current.stage.align = "tl";
 		Lib.current.stage.scaleMode = StageScaleMode.NO_SCALE;
